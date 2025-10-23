@@ -1,0 +1,5002 @@
+<items>
+  <item>
+    <item_type_id>1</item_type_id>
+    <item_name>Tactical helmet</item_name>
+    <price>362</price>
+  </item>
+  <item>
+    <item_type_id>2</item_type_id>
+    <item_name>Balaclava</item_name>
+    <price>20</price>
+  </item>
+  <item>
+    <item_type_id>3</item_type_id>
+    <item_name>Bicycle helmet</item_name>
+    <price>300</price>
+  </item>
+  <item>
+    <item_type_id>4</item_type_id>
+    <item_name>Baseball cap</item_name>
+    <price>486</price>
+  </item>
+  <item>
+    <item_type_id>5</item_type_id>
+    <item_name>Panama hat</item_name>
+    <price>376</price>
+  </item>
+  <item>
+    <item_type_id>6</item_type_id>
+    <item_name>Bandana</item_name>
+    <price>318</price>
+  </item>
+  <item>
+    <item_type_id>7</item_type_id>
+    <item_name>Knit hat</item_name>
+    <price>44</price>
+  </item>
+  <item>
+    <item_type_id>8</item_type_id>
+    <item_name>Fur ushanka</item_name>
+    <price>390</price>
+  </item>
+  <item>
+    <item_type_id>9</item_type_id>
+    <item_name>Climbing helmet</item_name>
+    <price>425</price>
+  </item>
+  <item>
+    <item_type_id>10</item_type_id>
+    <item_name>Safety goggles</item_name>
+    <price>37</price>
+  </item>
+  <item>
+    <item_type_id>11</item_type_id>
+    <item_name>Night vision goggles</item_name>
+    <price>57</price>
+  </item>
+  <item>
+    <item_type_id>12</item_type_id>
+    <item_name>Tactical goggles</item_name>
+    <price>356</price>
+  </item>
+  <item>
+    <item_type_id>13</item_type_id>
+    <item_name>Swimming goggles</item_name>
+    <price>63</price>
+  </item>
+  <item>
+    <item_type_id>14</item_type_id>
+    <item_name>Snorkeling mask</item_name>
+    <price>128</price>
+  </item>
+  <item>
+    <item_type_id>15</item_type_id>
+    <item_name>Ski mask</item_name>
+    <price>97</price>
+  </item>
+  <item>
+    <item_type_id>16</item_type_id>
+    <item_name>Balaclava (under-helmet)</item_name>
+    <price>257</price>
+  </item>
+  <item>
+    <item_type_id>17</item_type_id>
+    <item_name>Headband</item_name>
+    <price>423</price>
+  </item>
+  <item>
+    <item_type_id>18</item_type_id>
+    <item_name>Safari hat</item_name>
+    <price>363</price>
+  </item>
+  <item>
+    <item_type_id>19</item_type_id>
+    <item_name>Cowboy hat</item_name>
+    <price>191</price>
+  </item>
+  <item>
+    <item_type_id>20</item_type_id>
+    <item_name>Cyclist cap (aerodynamic cap)</item_name>
+    <price>345</price>
+  </item>
+  <item>
+    <item_type_id>21</item_type_id>
+    <item_name>Windbreaker jacket</item_name>
+    <price>380</price>
+  </item>
+  <item>
+    <item_type_id>22</item_type_id>
+    <item_name>Winter parka</item_name>
+    <price>349</price>
+  </item>
+  <item>
+    <item_type_id>23</item_type_id>
+    <item_name>Rain poncho</item_name>
+    <price>242</price>
+  </item>
+  <item>
+    <item_type_id>24</item_type_id>
+    <item_name>Tactical vest</item_name>
+    <price>88</price>
+  </item>
+  <item>
+    <item_type_id>25</item_type_id>
+    <item_name>Insulated vest</item_name>
+    <price>15</price>
+  </item>
+  <item>
+    <item_type_id>26</item_type_id>
+    <item_name>Softshell jacket</item_name>
+    <price>361</price>
+  </item>
+  <item>
+    <item_type_id>27</item_type_id>
+    <item_name>Hardshell jacket</item_name>
+    <price>304</price>
+  </item>
+  <item>
+    <item_type_id>28</item_type_id>
+    <item_name>Membrane jacket</item_name>
+    <price>190</price>
+  </item>
+  <item>
+    <item_type_id>29</item_type_id>
+    <item_name>Fleece jacket</item_name>
+    <price>48</price>
+  </item>
+  <item>
+    <item_type_id>30</item_type_id>
+    <item_name>Wool sweater</item_name>
+    <price>15</price>
+  </item>
+  <item>
+    <item_type_id>31</item_type_id>
+    <item_name>Sweatshirt</item_name>
+    <price>347</price>
+  </item>
+  <item>
+    <item_type_id>32</item_type_id>
+    <item_name>Hoodie</item_name>
+    <price>26</price>
+  </item>
+  <item>
+    <item_type_id>33</item_type_id>
+    <item_name>Jumper</item_name>
+    <price>287</price>
+  </item>
+  <item>
+    <item_type_id>34</item_type_id>
+    <item_name>Hiking shirt</item_name>
+    <price>420</price>
+  </item>
+  <item>
+    <item_type_id>35</item_type_id>
+    <item_name>Performance T-shirt</item_name>
+    <price>123</price>
+  </item>
+  <item>
+    <item_type_id>36</item_type_id>
+    <item_name>Thermal undershirt</item_name>
+    <price>38</price>
+  </item>
+  <item>
+    <item_type_id>37</item_type_id>
+    <item_name>Thermal long johns</item_name>
+    <price>45</price>
+  </item>
+  <item>
+    <item_type_id>38</item_type_id>
+    <item_name>Life vest</item_name>
+    <price>427</price>
+  </item>
+  <item>
+    <item_type_id>39</item_type_id>
+    <item_name>Load-bearing vest</item_name>
+    <price>396</price>
+  </item>
+  <item>
+    <item_type_id>40</item_type_id>
+    <item_name>Rain cape</item_name>
+    <price>421</price>
+  </item>
+  <item>
+    <item_type_id>41</item_type_id>
+    <item_name>Bib</item_name>
+    <price>198</price>
+  </item>
+  <item>
+    <item_type_id>42</item_type_id>
+    <item_name>Tunic</item_name>
+    <price>199</price>
+  </item>
+  <item>
+    <item_type_id>43</item_type_id>
+    <item_name>Blazer</item_name>
+    <price>215</price>
+  </item>
+  <item>
+    <item_type_id>44</item_type_id>
+    <item_name>Pullover</item_name>
+    <price>13</price>
+  </item>
+  <item>
+    <item_type_id>45</item_type_id>
+    <item_name>Sleeveless top</item_name>
+    <price>132</price>
+  </item>
+  <item>
+    <item_type_id>46</item_type_id>
+    <item_name>Telogreika (padded jacket)</item_name>
+    <price>25</price>
+  </item>
+  <item>
+    <item_type_id>47</item_type_id>
+    <item_name>Anorak</item_name>
+    <price>373</price>
+  </item>
+  <item>
+    <item_type_id>48</item_type_id>
+    <item_name>Hooded windbreaker</item_name>
+    <price>468</price>
+  </item>
+  <item>
+    <item_type_id>49</item_type_id>
+    <item_name>Down jacket</item_name>
+    <price>74</price>
+  </item>
+  <item>
+    <item_type_id>50</item_type_id>
+    <item_name>Down vest</item_name>
+    <price>225</price>
+  </item>
+  <item>
+    <item_type_id>51</item_type_id>
+    <item_name>Storm jacket</item_name>
+    <price>482</price>
+  </item>
+  <item>
+    <item_type_id>52</item_type_id>
+    <item_name>Hiking pants</item_name>
+    <price>153</price>
+  </item>
+  <item>
+    <item_type_id>53</item_type_id>
+    <item_name>Tactical pants</item_name>
+    <price>73</price>
+  </item>
+  <item>
+    <item_type_id>54</item_type_id>
+    <item_name>Jeans</item_name>
+    <price>170</price>
+  </item>
+  <item>
+    <item_type_id>55</item_type_id>
+    <item_name>Insulated pants</item_name>
+    <price>162</price>
+  </item>
+  <item>
+    <item_type_id>56</item_type_id>
+    <item_name>Breeches</item_name>
+    <price>234</price>
+  </item>
+  <item>
+    <item_type_id>57</item_type_id>
+    <item_name>Tactical shorts</item_name>
+    <price>35</price>
+  </item>
+  <item>
+    <item_type_id>58</item_type_id>
+    <item_name>Sports shorts</item_name>
+    <price>236</price>
+  </item>
+  <item>
+    <item_type_id>59</item_type_id>
+    <item_name>Bermuda shorts</item_name>
+    <price>107</price>
+  </item>
+  <item>
+    <item_type_id>60</item_type_id>
+    <item_name>Shorts</item_name>
+    <price>222</price>
+  </item>
+  <item>
+    <item_type_id>61</item_type_id>
+    <item_name>Harem pants</item_name>
+    <price>258</price>
+  </item>
+  <item>
+    <item_type_id>62</item_type_id>
+    <item_name>Gaiters</item_name>
+    <price>443</price>
+  </item>
+  <item>
+    <item_type_id>63</item_type_id>
+    <item_name>Suspenders</item_name>
+    <price>206</price>
+  </item>
+  <item>
+    <item_type_id>64</item_type_id>
+    <item_name>Belt</item_name>
+    <price>16</price>
+  </item>
+  <item>
+    <item_type_id>65</item_type_id>
+    <item_name>Tactical belt</item_name>
+    <price>51</price>
+  </item>
+  <item>
+    <item_type_id>66</item_type_id>
+    <item_name>Belt loops</item_name>
+    <price>298</price>
+  </item>
+  <item>
+    <item_type_id>67</item_type_id>
+    <item_name>Tactical gloves</item_name>
+    <price>45</price>
+  </item>
+  <item>
+    <item_type_id>68</item_type_id>
+    <item_name>Insulated gloves</item_name>
+    <price>455</price>
+  </item>
+  <item>
+    <item_type_id>69</item_type_id>
+    <item_name>Shooting gloves</item_name>
+    <price>106</price>
+  </item>
+  <item>
+    <item_type_id>70</item_type_id>
+    <item_name>Gauntlets</item_name>
+    <price>258</price>
+  </item>
+  <item>
+    <item_type_id>71</item_type_id>
+    <item_name>Mittens</item_name>
+    <price>56</price>
+  </item>
+  <item>
+    <item_type_id>72</item_type_id>
+    <item_name>Fingerless gloves</item_name>
+    <price>86</price>
+  </item>
+  <item>
+    <item_type_id>73</item_type_id>
+    <item_name>Wristbands</item_name>
+    <price>251</price>
+  </item>
+  <item>
+    <item_type_id>74</item_type_id>
+    <item_name>Elbow pads</item_name>
+    <price>305</price>
+  </item>
+  <item>
+    <item_type_id>75</item_type_id>
+    <item_name>Paracord bracelet</item_name>
+    <price>58</price>
+  </item>
+  <item>
+    <item_type_id>76</item_type_id>
+    <item_name>Finger cot</item_name>
+    <price>307</price>
+  </item>
+  <item>
+    <item_type_id>77</item_type_id>
+    <item_name>Touchscreen gloves</item_name>
+    <price>157</price>
+  </item>
+  <item>
+    <item_type_id>78</item_type_id>
+    <item_name>Motorcycle gloves</item_name>
+    <price>74</price>
+  </item>
+  <item>
+    <item_type_id>79</item_type_id>
+    <item_name>Gardening gloves</item_name>
+    <price>371</price>
+  </item>
+  <item>
+    <item_type_id>80</item_type_id>
+    <item_name>Boxing gloves</item_name>
+    <price>62</price>
+  </item>
+  <item>
+    <item_type_id>81</item_type_id>
+    <item_name>Tactical boots</item_name>
+    <price>342</price>
+  </item>
+  <item>
+    <item_type_id>82</item_type_id>
+    <item_name>Ski boots</item_name>
+    <price>31</price>
+  </item>
+  <item>
+    <item_type_id>83</item_type_id>
+    <item_name>Trekking sneakers</item_name>
+    <price>194</price>
+  </item>
+  <item>
+    <item_type_id>84</item_type_id>
+    <item_name>Rubber boots</item_name>
+    <price>248</price>
+  </item>
+  <item>
+    <item_type_id>85</item_type_id>
+    <item_name>Insulated boots</item_name>
+    <price>251</price>
+  </item>
+  <item>
+    <item_type_id>86</item_type_id>
+    <item_name>Galoshes</item_name>
+    <price>245</price>
+  </item>
+  <item>
+    <item_type_id>87</item_type_id>
+    <item_name>Hiking sandals</item_name>
+    <price>43</price>
+  </item>
+  <item>
+    <item_type_id>88</item_type_id>
+    <item_name>Bath slippers</item_name>
+    <price>252</price>
+  </item>
+  <item>
+    <item_type_id>89</item_type_id>
+    <item_name>Shoe covers</item_name>
+    <price>54</price>
+  </item>
+  <item>
+    <item_type_id>90</item_type_id>
+    <item_name>Shin guards</item_name>
+    <price>25</price>
+  </item>
+  <item>
+    <item_type_id>91</item_type_id>
+    <item_name>Crampons</item_name>
+    <price>447</price>
+  </item>
+  <item>
+    <item_type_id>92</item_type_id>
+    <item_name>Ski boots</item_name>
+    <price>274</price>
+  </item>
+  <item>
+    <item_type_id>93</item_type_id>
+    <item_name>Skates</item_name>
+    <price>121</price>
+  </item>
+  <item>
+    <item_type_id>94</item_type_id>
+    <item_name>Snowshoes</item_name>
+    <price>120</price>
+  </item>
+  <item>
+    <item_type_id>95</item_type_id>
+    <item_name>Climbing soles</item_name>
+    <price>336</price>
+  </item>
+  <item>
+    <item_type_id>96</item_type_id>
+    <item_name>Knee pads</item_name>
+    <price>132</price>
+  </item>
+  <item>
+    <item_type_id>97</item_type_id>
+    <item_name>Footwraps</item_name>
+    <price>395</price>
+  </item>
+  <item>
+    <item_type_id>98</item_type_id>
+    <item_name>Leather boots</item_name>
+    <price>390</price>
+  </item>
+  <item>
+    <item_type_id>99</item_type_id>
+    <item_name>Moccasins</item_name>
+    <price>15</price>
+  </item>
+  <item>
+    <item_type_id>100</item_type_id>
+    <item_name>Chromed leather boots</item_name>
+    <price>66</price>
+  </item>
+  <item>
+    <item_type_id>101</item_type_id>
+    <item_name>Trekking socks</item_name>
+    <price>41</price>
+  </item>
+  <item>
+    <item_type_id>102</item_type_id>
+    <item_name>Wool socks</item_name>
+    <price>258</price>
+  </item>
+  <item>
+    <item_type_id>103</item_type_id>
+    <item_name>Thermal socks</item_name>
+    <price>337</price>
+  </item>
+  <item>
+    <item_type_id>104</item_type_id>
+    <item_name>Compression socks</item_name>
+    <price>286</price>
+  </item>
+  <item>
+    <item_type_id>105</item_type_id>
+    <item_name>Ankle socks</item_name>
+    <price>175</price>
+  </item>
+  <item>
+    <item_type_id>106</item_type_id>
+    <item_name>Heated socks</item_name>
+    <price>396</price>
+  </item>
+  <item>
+    <item_type_id>107</item_type_id>
+    <item_name>Wool footwraps</item_name>
+    <price>397</price>
+  </item>
+  <item>
+    <item_type_id>108</item_type_id>
+    <item_name>Slipper socks</item_name>
+    <price>94</price>
+  </item>
+  <item>
+    <item_type_id>109</item_type_id>
+    <item_name>Knee-high socks</item_name>
+    <price>231</price>
+  </item>
+  <item>
+    <item_type_id>110</item_type_id>
+    <item_name>Blister-resistant socks</item_name>
+    <price>142</price>
+  </item>
+  <item>
+    <item_type_id>111</item_type_id>
+    <item_name>Bulletproof vest</item_name>
+    <price>199</price>
+  </item>
+  <item>
+    <item_type_id>112</item_type_id>
+    <item_name>Gas mask</item_name>
+    <price>413</price>
+  </item>
+  <item>
+    <item_type_id>113</item_type_id>
+    <item_name>Respirator</item_name>
+    <price>112</price>
+  </item>
+  <item>
+    <item_type_id>114</item_type_id>
+    <item_name>Protective neck collar</item_name>
+    <price>476</price>
+  </item>
+  <item>
+    <item_type_id>115</item_type_id>
+    <item_name>Construction knee pads</item_name>
+    <price>483</price>
+  </item>
+  <item>
+    <item_type_id>116</item_type_id>
+    <item_name>Face shield</item_name>
+    <price>142</price>
+  </item>
+  <item>
+    <item_type_id>117</item_type_id>
+    <item_name>Fencing bib</item_name>
+    <price>201</price>
+  </item>
+  <item>
+    <item_type_id>118</item_type_id>
+    <item_name>Spiked shoe attachments</item_name>
+    <price>272</price>
+  </item>
+  <item>
+    <item_type_id>119</item_type_id>
+    <item_name>Auto-inflating life vest</item_name>
+    <price>340</price>
+  </item>
+  <item>
+    <item_type_id>120</item_type_id>
+    <item_name>Wetsuit</item_name>
+    <price>363</price>
+  </item>
+  <item>
+    <item_type_id>121</item_type_id>
+    <item_name>Drysuit</item_name>
+    <price>405</price>
+  </item>
+  <item>
+    <item_type_id>122</item_type_id>
+    <item_name>Semi-dry suit</item_name>
+    <price>294</price>
+  </item>
+  <item>
+    <item_type_id>123</item_type_id>
+    <item_name>Water shoes</item_name>
+    <price>320</price>
+  </item>
+  <item>
+    <item_type_id>124</item_type_id>
+    <item_name>Water gloves</item_name>
+    <price>220</price>
+  </item>
+  <item>
+    <item_type_id>125</item_type_id>
+    <item_name>Kayaking helmet</item_name>
+    <price>414</price>
+  </item>
+  <item>
+    <item_type_id>126</item_type_id>
+    <item_name>Lifebuoy</item_name>
+    <price>32</price>
+  </item>
+  <item>
+    <item_type_id>127</item_type_id>
+    <item_name>High-visibility vest (reflective)</item_name>
+    <price>149</price>
+  </item>
+  <item>
+    <item_type_id>128</item_type_id>
+    <item_name>Harness</item_name>
+    <price>150</price>
+  </item>
+  <item>
+    <item_type_id>129</item_type_id>
+    <item_name>Climbing harness</item_name>
+    <price>215</price>
+  </item>
+  <item>
+    <item_type_id>130</item_type_id>
+    <item_name>Climbing spikes (spurs)</item_name>
+    <price>249</price>
+  </item>
+  <item>
+    <item_type_id>131</item_type_id>
+    <item_name>Safety harness</item_name>
+    <price>47</price>
+  </item>
+  <item>
+    <item_type_id>132</item_type_id>
+    <item_name>Strap adjuster</item_name>
+    <price>358</price>
+  </item>
+  <item>
+    <item_type_id>133</item_type_id>
+    <item_name>Self-belay lanyards</item_name>
+    <price>61</price>
+  </item>
+  <item>
+    <item_type_id>134</item_type_id>
+    <item_name>Quickdraws</item_name>
+    <price>443</price>
+  </item>
+  <item>
+    <item_type_id>135</item_type_id>
+    <item_name>Ice axe</item_name>
+    <price>167</price>
+  </item>
+  <item>
+    <item_type_id>136</item_type_id>
+    <item_name>Crampons</item_name>
+    <price>478</price>
+  </item>
+  <item>
+    <item_type_id>137</item_type_id>
+    <item_name>Rock climbing shoes</item_name>
+    <price>47</price>
+  </item>
+  <item>
+    <item_type_id>138</item_type_id>
+    <item_name>Carabiners</item_name>
+    <price>186</price>
+  </item>
+  <item>
+    <item_type_id>139</item_type_id>
+    <item_name>Ascender</item_name>
+    <price>389</price>
+  </item>
+  <item>
+    <item_type_id>140</item_type_id>
+    <item_name>Descender</item_name>
+    <price>54</price>
+  </item>
+  <item>
+    <item_type_id>141</item_type_id>
+    <item_name>Climbing rope</item_name>
+    <price>350</price>
+  </item>
+  <item>
+    <item_type_id>142</item_type_id>
+    <item_name>Accessory cord</item_name>
+    <price>477</price>
+  </item>
+  <item>
+    <item_type_id>143</item_type_id>
+    <item_name>Avalanche beacon</item_name>
+    <price>481</price>
+  </item>
+  <item>
+    <item_type_id>144</item_type_id>
+    <item_name>Avalanche probe</item_name>
+    <price>199</price>
+  </item>
+  <item>
+    <item_type_id>145</item_type_id>
+    <item_name>Avalanche shovel</item_name>
+    <price>378</price>
+  </item>
+  <item>
+    <item_type_id>146</item_type_id>
+    <item_name>Ski mask</item_name>
+    <price>163</price>
+  </item>
+  <item>
+    <item_type_id>147</item_type_id>
+    <item_name>Back protector</item_name>
+    <price>186</price>
+  </item>
+  <item>
+    <item_type_id>148</item_type_id>
+    <item_name>Chest protector</item_name>
+    <price>142</price>
+  </item>
+  <item>
+    <item_type_id>149</item_type_id>
+    <item_name>Hockey shin pads</item_name>
+    <price>368</price>
+  </item>
+  <item>
+    <item_type_id>150</item_type_id>
+    <item_name>Tactical backpack</item_name>
+    <price>228</price>
+  </item>
+  <item>
+    <item_type_id>151</item_type_id>
+    <item_name>Assault backpack</item_name>
+    <price>441</price>
+  </item>
+  <item>
+    <item_type_id>152</item_type_id>
+    <item_name>Expedition backpack</item_name>
+    <price>65</price>
+  </item>
+  <item>
+    <item_type_id>153</item_type_id>
+    <item_name>Urban backpack</item_name>
+    <price>361</price>
+  </item>
+  <item>
+    <item_type_id>154</item_type_id>
+    <item_name>Cycling backpack</item_name>
+    <price>120</price>
+  </item>
+  <item>
+    <item_type_id>155</item_type_id>
+    <item_name>Hydration bladder</item_name>
+    <price>384</price>
+  </item>
+  <item>
+    <item_type_id>156</item_type_id>
+    <item_name>Fanny pack</item_name>
+    <price>288</price>
+  </item>
+  <item>
+    <item_type_id>157</item_type_id>
+    <item_name>Tactical thigh holster</item_name>
+    <price>29</price>
+  </item>
+  <item>
+    <item_type_id>158</item_type_id>
+    <item_name>Shoulder bag</item_name>
+    <price>459</price>
+  </item>
+  <item>
+    <item_type_id>159</item_type_id>
+    <item_name>Wallet</item_name>
+    <price>206</price>
+  </item>
+  <item>
+    <item_type_id>160</item_type_id>
+    <item_name>Backpack (rucksack)</item_name>
+    <price>52</price>
+  </item>
+  <item>
+    <item_type_id>161</item_type_id>
+    <item_name>Duffel bag</item_name>
+    <price>68</price>
+  </item>
+  <item>
+    <item_type_id>162</item_type_id>
+    <item_name>Dry bag</item_name>
+    <price>296</price>
+  </item>
+  <item>
+    <item_type_id>163</item_type_id>
+    <item_name>Laptop case</item_name>
+    <price>135</price>
+  </item>
+  <item>
+    <item_type_id>164</item_type_id>
+    <item_name>Hydration bladder cover</item_name>
+    <price>249</price>
+  </item>
+  <item>
+    <item_type_id>165</item_type_id>
+    <item_name>Backpack organizer</item_name>
+    <price>496</price>
+  </item>
+  <item>
+    <item_type_id>166</item_type_id>
+    <item_name>Map case</item_name>
+    <price>419</price>
+  </item>
+  <item>
+    <item_type_id>167</item_type_id>
+    <item_name>Medkit</item_name>
+    <price>143</price>
+  </item>
+  <item>
+    <item_type_id>168</item_type_id>
+    <item_name>Tool bag</item_name>
+    <price>469</price>
+  </item>
+  <item>
+    <item_type_id>169</item_type_id>
+    <item_name>Tube case</item_name>
+    <price>380</price>
+  </item>
+  <item>
+    <item_type_id>170</item_type_id>
+    <item_name>Travel trunk</item_name>
+    <price>144</price>
+  </item>
+  <item>
+    <item_type_id>171</item_type_id>
+    <item_name>Backpack frame</item_name>
+    <price>271</price>
+  </item>
+  <item>
+    <item_type_id>172</item_type_id>
+    <item_name>Tactical assault vest-backpack</item_name>
+    <price>372</price>
+  </item>
+  <item>
+    <item_type_id>173</item_type_id>
+    <item_name>Baby carrier backpack</item_name>
+    <price>225</price>
+  </item>
+  <item>
+    <item_type_id>174</item_type_id>
+    <item_name>Cooler bag</item_name>
+    <price>336</price>
+  </item>
+  <item>
+    <item_type_id>175</item_type_id>
+    <item_name>Briefcase</item_name>
+    <price>55</price>
+  </item>
+  <item>
+    <item_type_id>176</item_type_id>
+    <item_name>Travel rug</item_name>
+    <price>417</price>
+  </item>
+  <item>
+    <item_type_id>177</item_type_id>
+    <item_name>Holster</item_name>
+    <price>415</price>
+  </item>
+  <item>
+    <item_type_id>178</item_type_id>
+    <item_name>Glasses case</item_name>
+    <price>101</price>
+  </item>
+  <item>
+    <item_type_id>179</item_type_id>
+    <item_name>Umbrella case</item_name>
+    <price>496</price>
+  </item>
+  <item>
+    <item_type_id>180</item_type_id>
+    <item_name>Metal flask</item_name>
+    <price>176</price>
+  </item>
+  <item>
+    <item_type_id>181</item_type_id>
+    <item_name>Plastic flask</item_name>
+    <price>268</price>
+  </item>
+  <item>
+    <item_type_id>182</item_type_id>
+    <item_name>Thermos</item_name>
+    <price>499</price>
+  </item>
+  <item>
+    <item_type_id>183</item_type_id>
+    <item_name>Camping pot</item_name>
+    <price>312</price>
+  </item>
+  <item>
+    <item_type_id>184</item_type_id>
+    <item_name>Camping mug</item_name>
+    <price>476</price>
+  </item>
+  <item>
+    <item_type_id>185</item_type_id>
+    <item_name>Camping bowl</item_name>
+    <price>397</price>
+  </item>
+  <item>
+    <item_type_id>186</item_type_id>
+    <item_name>Gas stove</item_name>
+    <price>214</price>
+  </item>
+  <item>
+    <item_type_id>187</item_type_id>
+    <item_name>Multi-fuel stove</item_name>
+    <price>280</price>
+  </item>
+  <item>
+    <item_type_id>188</item_type_id>
+    <item_name>Gas canister</item_name>
+    <price>269</price>
+  </item>
+  <item>
+    <item_type_id>189</item_type_id>
+    <item_name>Cutlery set</item_name>
+    <price>415</price>
+  </item>
+  <item>
+    <item_type_id>190</item_type_id>
+    <item_name>Folding spork</item_name>
+    <price>82</price>
+  </item>
+  <item>
+    <item_type_id>191</item_type_id>
+    <item_name>Hunting knife</item_name>
+    <price>485</price>
+  </item>
+  <item>
+    <item_type_id>192</item_type_id>
+    <item_name>Tactical knife</item_name>
+    <price>236</price>
+  </item>
+  <item>
+    <item_type_id>193</item_type_id>
+    <item_name>Multitool knife</item_name>
+    <price>468</price>
+  </item>
+  <item>
+    <item_type_id>194</item_type_id>
+    <item_name>Survival knife</item_name>
+    <price>321</price>
+  </item>
+  <item>
+    <item_type_id>195</item_type_id>
+    <item_name>Knife sharpener</item_name>
+    <price>314</price>
+  </item>
+  <item>
+    <item_type_id>196</item_type_id>
+    <item_name>Machete</item_name>
+    <price>233</price>
+  </item>
+  <item>
+    <item_type_id>197</item_type_id>
+    <item_name>Camping axe</item_name>
+    <price>292</price>
+  </item>
+  <item>
+    <item_type_id>198</item_type_id>
+    <item_name>Folding saw</item_name>
+    <price>89</price>
+  </item>
+  <item>
+    <item_type_id>199</item_type_id>
+    <item_name>Tinder</item_name>
+    <price>153</price>
+  </item>
+  <item>
+    <item_type_id>200</item_type_id>
+    <item_name>Firestarter</item_name>
+    <price>104</price>
+  </item>
+  <item>
+    <item_type_id>201</item_type_id>
+    <item_name>Water purification tablets</item_name>
+    <price>153</price>
+  </item>
+  <item>
+    <item_type_id>202</item_type_id>
+    <item_name>Water filter</item_name>
+    <price>323</price>
+  </item>
+  <item>
+    <item_type_id>203</item_type_id>
+    <item_name>Hydration system</item_name>
+    <price>256</price>
+  </item>
+  <item>
+    <item_type_id>204</item_type_id>
+    <item_name>Water canister</item_name>
+    <price>81</price>
+  </item>
+  <item>
+    <item_type_id>205</item_type_id>
+    <item_name>Waterproof food container</item_name>
+    <price>368</price>
+  </item>
+  <item>
+    <item_type_id>206</item_type_id>
+    <item_name>Freeze-dried food</item_name>
+    <price>380</price>
+  </item>
+  <item>
+    <item_type_id>207</item_type_id>
+    <item_name>Energy bars</item_name>
+    <price>27</price>
+  </item>
+  <item>
+    <item_type_id>208</item_type_id>
+    <item_name>Snacks</item_name>
+    <price>146</price>
+  </item>
+  <item>
+    <item_type_id>209</item_type_id>
+    <item_name>Salt and spices container</item_name>
+    <price>434</price>
+  </item>
+  <item>
+    <item_type_id>210</item_type_id>
+    <item_name>Compass</item_name>
+    <price>142</price>
+  </item>
+  <item>
+    <item_type_id>211</item_type_id>
+    <item_name>GPS navigator</item_name>
+    <price>365</price>
+  </item>
+  <item>
+    <item_type_id>212</item_type_id>
+    <item_name>Topographic map</item_name>
+    <price>126</price>
+  </item>
+  <item>
+    <item_type_id>213</item_type_id>
+    <item_name>Map measurer</item_name>
+    <price>151</price>
+  </item>
+  <item>
+    <item_type_id>214</item_type_id>
+    <item_name>Altimeter</item_name>
+    <price>305</price>
+  </item>
+  <item>
+    <item_type_id>215</item_type_id>
+    <item_name>Map case</item_name>
+    <price>453</price>
+  </item>
+  <item>
+    <item_type_id>216</item_type_id>
+    <item_name>Magnifying glass</item_name>
+    <price>211</price>
+  </item>
+  <item>
+    <item_type_id>217</item_type_id>
+    <item_name>Binoculars</item_name>
+    <price>156</price>
+  </item>
+  <item>
+    <item_type_id>218</item_type_id>
+    <item_name>Rangefinder</item_name>
+    <price>409</price>
+  </item>
+  <item>
+    <item_type_id>219</item_type_id>
+    <item_name>Monocular</item_name>
+    <price>297</price>
+  </item>
+  <item>
+    <item_type_id>220</item_type_id>
+    <item_name>Thermal imager</item_name>
+    <price>71</price>
+  </item>
+  <item>
+    <item_type_id>221</item_type_id>
+    <item_name>Compact sextant</item_name>
+    <price>124</price>
+  </item>
+  <item>
+    <item_type_id>222</item_type_id>
+    <item_name>Sundial</item_name>
+    <price>483</price>
+  </item>
+  <item>
+    <item_type_id>223</item_type_id>
+    <item_name>Navigational watch</item_name>
+    <price>110</price>
+  </item>
+  <item>
+    <item_type_id>224</item_type_id>
+    <item_name>Walkie-talkie</item_name>
+    <price>412</price>
+  </item>
+  <item>
+    <item_type_id>225</item_type_id>
+    <item_name>Satellite messenger</item_name>
+    <price>67</price>
+  </item>
+  <item>
+    <item_type_id>226</item_type_id>
+    <item_name>Portable weather station</item_name>
+    <price>463</price>
+  </item>
+  <item>
+    <item_type_id>227</item_type_id>
+    <item_name>Tactical flashlight</item_name>
+    <price>327</price>
+  </item>
+  <item>
+    <item_type_id>228</item_type_id>
+    <item_name>Headlamp</item_name>
+    <price>239</price>
+  </item>
+  <item>
+    <item_type_id>229</item_type_id>
+    <item_name>Camping lantern</item_name>
+    <price>34</price>
+  </item>
+  <item>
+    <item_type_id>230</item_type_id>
+    <item_name>Dynamo flashlight</item_name>
+    <price>386</price>
+  </item>
+  <item>
+    <item_type_id>231</item_type_id>
+    <item_name>Signal flare</item_name>
+    <price>182</price>
+  </item>
+  <item>
+    <item_type_id>232</item_type_id>
+    <item_name>Chemical light stick</item_name>
+    <price>362</price>
+  </item>
+  <item>
+    <item_type_id>233</item_type_id>
+    <item_name>Signal flare</item_name>
+    <price>351</price>
+  </item>
+  <item>
+    <item_type_id>234</item_type_id>
+    <item_name>Whistle</item_name>
+    <price>376</price>
+  </item>
+  <item>
+    <item_type_id>235</item_type_id>
+    <item_name>Signal mirror</item_name>
+    <price>287</price>
+  </item>
+  <item>
+    <item_type_id>236</item_type_id>
+    <item_name>High-visibility vest</item_name>
+    <price>75</price>
+  </item>
+  <item>
+    <item_type_id>237</item_type_id>
+    <item_name>Marker tape</item_name>
+    <price>47</price>
+  </item>
+  <item>
+    <item_type_id>238</item_type_id>
+    <item_name>Personal locator beacon</item_name>
+    <price>184</price>
+  </item>
+  <item>
+    <item_type_id>239</item_type_id>
+    <item_name>Tent</item_name>
+    <price>27</price>
+  </item>
+  <item>
+    <item_type_id>240</item_type_id>
+    <item_name>Tarp</item_name>
+    <price>445</price>
+  </item>
+  <item>
+    <item_type_id>241</item_type_id>
+    <item_name>Sleeping bag</item_name>
+    <price>33</price>
+  </item>
+  <item>
+    <item_type_id>242</item_type_id>
+    <item_name>Sleeping bag compression sack</item_name>
+    <price>323</price>
+  </item>
+  <item>
+    <item_type_id>243</item_type_id>
+    <item_name>Self-inflating sleeping pad</item_name>
+    <price>252</price>
+  </item>
+  <item>
+    <item_type_id>244</item_type_id>
+    <item_name>Foam sleeping pad</item_name>
+    <price>313</price>
+  </item>
+  <item>
+    <item_type_id>245</item_type_id>
+    <item_name>Inflatable pillow</item_name>
+    <price>438</price>
+  </item>
+  <item>
+    <item_type_id>246</item_type_id>
+    <item_name>Hammock</item_name>
+    <price>465</price>
+  </item>
+  <item>
+    <item_type_id>247</item_type_id>
+    <item_name>Mosquito net</item_name>
+    <price>401</price>
+  </item>
+  <item>
+    <item_type_id>248</item_type_id>
+    <item_name>Waterproof matches</item_name>
+    <price>323</price>
+  </item>
+  <item>
+    <item_type_id>249</item_type_id>
+    <item_name>Lighter</item_name>
+    <price>276</price>
+  </item>
+  <item>
+    <item_type_id>250</item_type_id>
+    <item_name>Candle</item_name>
+    <price>302</price>
+  </item>
+  <item>
+    <item_type_id>251</item_type_id>
+    <item_name>Solid fuel</item_name>
+    <price>48</price>
+  </item>
+  <item>
+    <item_type_id>252</item_type_id>
+    <item_name>Fire starter</item_name>
+    <price>465</price>
+  </item>
+  <item>
+    <item_type_id>253</item_type_id>
+    <item_name>Folding stove</item_name>
+    <price>180</price>
+  </item>
+  <item>
+    <item_type_id>254</item_type_id>
+    <item_name>Folding chair</item_name>
+    <price>356</price>
+  </item>
+  <item>
+    <item_type_id>255</item_type_id>
+    <item_name>Folding table</item_name>
+    <price>499</price>
+  </item>
+  <item>
+    <item_type_id>256</item_type_id>
+    <item_name>Portable sauna</item_name>
+    <price>53</price>
+  </item>
+  <item>
+    <item_type_id>257</item_type_id>
+    <item_name>Solar panel</item_name>
+    <price>82</price>
+  </item>
+  <item>
+    <item_type_id>258</item_type_id>
+    <item_name>Power bank</item_name>
+    <price>486</price>
+  </item>
+  <item>
+    <item_type_id>259</item_type_id>
+    <item_name>Universal charging cable</item_name>
+    <price>234</price>
+  </item>
+  <item>
+    <item_type_id>260</item_type_id>
+    <item_name>Solar charger</item_name>
+    <price>110</price>
+  </item>
+  <item>
+    <item_type_id>261</item_type_id>
+    <item_name>Portable speaker</item_name>
+    <price>31</price>
+  </item>
+  <item>
+    <item_type_id>262</item_type_id>
+    <item_name>Radio receiver</item_name>
+    <price>83</price>
+  </item>
+  <item>
+    <item_type_id>263</item_type_id>
+    <item_name>Book</item_name>
+    <price>152</price>
+  </item>
+  <item>
+    <item_type_id>264</item_type_id>
+    <item_name>Notebook and pen</item_name>
+    <price>198</price>
+  </item>
+  <item>
+    <item_type_id>265</item_type_id>
+    <item_name>Deck of cards</item_name>
+    <price>240</price>
+  </item>
+  <item>
+    <item_type_id>266</item_type_id>
+    <item_name>Fishing kit</item_name>
+    <price>44</price>
+  </item>
+  <item>
+    <item_type_id>267</item_type_id>
+    <item_name>Folding fishing rod</item_name>
+    <price>53</price>
+  </item>
+  <item>
+    <item_type_id>268</item_type_id>
+    <item_name>Fishing reel</item_name>
+    <price>268</price>
+  </item>
+  <item>
+    <item_type_id>269</item_type_id>
+    <item_name>Bait set</item_name>
+    <price>94</price>
+  </item>
+  <item>
+    <item_type_id>270</item_type_id>
+    <item_name>Underwater camera</item_name>
+    <price>414</price>
+  </item>
+  <item>
+    <item_type_id>271</item_type_id>
+    <item_name>Multifunctional card</item_name>
+    <price>402</price>
+  </item>
+  <item>
+    <item_type_id>272</item_type_id>
+    <item_name>Pincushion</item_name>
+    <price>109</price>
+  </item>
+  <item>
+    <item_type_id>273</item_type_id>
+    <item_name>Sewing kit</item_name>
+    <price>446</price>
+  </item>
+  <item>
+    <item_type_id>274</item_type_id>
+    <item_name>Superglue</item_name>
+    <price>93</price>
+  </item>
+  <item>
+    <item_type_id>275</item_type_id>
+    <item_name>Duct tape</item_name>
+    <price>394</price>
+  </item>
+  <item>
+    <item_type_id>276</item_type_id>
+    <item_name>Paracord</item_name>
+    <price>159</price>
+  </item>
+  <item>
+    <item_type_id>277</item_type_id>
+    <item_name>Tent repair kit</item_name>
+    <price>280</price>
+  </item>
+  <item>
+    <item_type_id>278</item_type_id>
+    <item_name>Bike repair kit</item_name>
+    <price>120</price>
+  </item>
+  <item>
+    <item_type_id>279</item_type_id>
+    <item_name>Hand pump</item_name>
+    <price>71</price>
+  </item>
+  <item>
+    <item_type_id>280</item_type_id>
+    <item_name>First aid kit</item_name>
+    <price>316</price>
+  </item>
+  <item>
+    <item_type_id>281</item_type_id>
+    <item_name>Tourniquet</item_name>
+    <price>214</price>
+  </item>
+  <item>
+    <item_type_id>282</item_type_id>
+    <item_name>Sterile bandage</item_name>
+    <price>304</price>
+  </item>
+  <item>
+    <item_type_id>283</item_type_id>
+    <item_name>Antiseptic band-aid</item_name>
+    <price>267</price>
+  </item>
+  <item>
+    <item_type_id>284</item_type_id>
+    <item_name>Medical tape</item_name>
+    <price>285</price>
+  </item>
+  <item>
+    <item_type_id>285</item_type_id>
+    <item_name>Iodine / Brilliant green</item_name>
+    <price>389</price>
+  </item>
+  <item>
+    <item_type_id>286</item_type_id>
+    <item_name>Hydrogen peroxide</item_name>
+    <price>316</price>
+  </item>
+  <item>
+    <item_type_id>287</item_type_id>
+    <item_name>Painkiller</item_name>
+    <price>278</price>
+  </item>
+  <item>
+    <item_type_id>288</item_type_id>
+    <item_name>Antihistamine</item_name>
+    <price>171</price>
+  </item>
+  <item>
+    <item_type_id>289</item_type_id>
+    <item_name>Activated charcoal</item_name>
+    <price>48</price>
+  </item>
+  <item>
+    <item_type_id>290</item_type_id>
+    <item_name>Insect repellent</item_name>
+    <price>414</price>
+  </item>
+  <item>
+    <item_type_id>291</item_type_id>
+    <item_name>Sunscreen</item_name>
+    <price>62</price>
+  </item>
+  <item>
+    <item_type_id>292</item_type_id>
+    <item_name>Lip balm</item_name>
+    <price>13</price>
+  </item>
+  <item>
+    <item_type_id>293</item_type_id>
+    <item_name>Wet wipes</item_name>
+    <price>166</price>
+  </item>
+  <item>
+    <item_type_id>294</item_type_id>
+    <item_name>Toilet paper</item_name>
+    <price>331</price>
+  </item>
+  <item>
+    <item_type_id>295</item_type_id>
+    <item_name>Soap / Shower gel</item_name>
+    <price>376</price>
+  </item>
+  <item>
+    <item_type_id>296</item_type_id>
+    <item_name>Shampoo</item_name>
+    <price>114</price>
+  </item>
+  <item>
+    <item_type_id>297</item_type_id>
+    <item_name>Toothbrush</item_name>
+    <price>165</price>
+  </item>
+  <item>
+    <item_type_id>298</item_type_id>
+    <item_name>Toothpaste</item_name>
+    <price>72</price>
+  </item>
+  <item>
+    <item_type_id>299</item_type_id>
+    <item_name>Razor</item_name>
+    <price>377</price>
+  </item>
+  <item>
+    <item_type_id>300</item_type_id>
+    <item_name>Quick-dry towel</item_name>
+    <price>437</price>
+  </item>
+  <item>
+    <item_type_id>301</item_type_id>
+    <item_name>Comb</item_name>
+    <price>47</price>
+  </item>
+  <item>
+    <item_type_id>302</item_type_id>
+    <item_name>Pocket mirror</item_name>
+    <price>54</price>
+  </item>
+  <item>
+    <item_type_id>303</item_type_id>
+    <item_name>Medical scissors</item_name>
+    <price>433</price>
+  </item>
+  <item>
+    <item_type_id>304</item_type_id>
+    <item_name>Tweezers</item_name>
+    <price>198</price>
+  </item>
+  <item>
+    <item_type_id>305</item_type_id>
+    <item_name>Thermometer</item_name>
+    <price>40</price>
+  </item>
+  <item>
+    <item_type_id>306</item_type_id>
+    <item_name>Tick repellent</item_name>
+    <price>32</price>
+  </item>
+  <item>
+    <item_type_id>307</item_type_id>
+    <item_name>Water disinfectant</item_name>
+    <price>17</price>
+  </item>
+  <item>
+    <item_type_id>308</item_type_id>
+    <item_name>Wristwatch</item_name>
+    <price>87</price>
+  </item>
+  <item>
+    <item_type_id>309</item_type_id>
+    <item_name>GPS watch</item_name>
+    <price>320</price>
+  </item>
+  <item>
+    <item_type_id>310</item_type_id>
+    <item_name>Smartwatch</item_name>
+    <price>59</price>
+  </item>
+  <item>
+    <item_type_id>311</item_type_id>
+    <item_name>Sunglasses</item_name>
+    <price>225</price>
+  </item>
+  <item>
+    <item_type_id>312</item_type_id>
+    <item_name>Safety glasses</item_name>
+    <price>32</price>
+  </item>
+  <item>
+    <item_type_id>313</item_type_id>
+    <item_name>Opera glasses</item_name>
+    <price>180</price>
+  </item>
+  <item>
+    <item_type_id>314</item_type_id>
+    <item_name>Money clip</item_name>
+    <price>280</price>
+  </item>
+  <item>
+    <item_type_id>315</item_type_id>
+    <item_name>Paper clips</item_name>
+    <price>485</price>
+  </item>
+  <item>
+    <item_type_id>316</item_type_id>
+    <item_name>Stapler</item_name>
+    <price>397</price>
+  </item>
+  <item>
+    <item_type_id>317</item_type_id>
+    <item_name>Hole punch</item_name>
+    <price>200</price>
+  </item>
+  <item>
+    <item_type_id>318</item_type_id>
+    <item_name>Letter opener</item_name>
+    <price>116</price>
+  </item>
+  <item>
+    <item_type_id>319</item_type_id>
+    <item_name>Ruler</item_name>
+    <price>90</price>
+  </item>
+  <item>
+    <item_type_id>320</item_type_id>
+    <item_name>Protractor</item_name>
+    <price>26</price>
+  </item>
+  <item>
+    <item_type_id>321</item_type_id>
+    <item_name>Compass (drawing)</item_name>
+    <price>340</price>
+  </item>
+  <item>
+    <item_type_id>322</item_type_id>
+    <item_name>Pointer</item_name>
+    <price>334</price>
+  </item>
+  <item>
+    <item_type_id>323</item_type_id>
+    <item_name>Referee whistle</item_name>
+    <price>223</price>
+  </item>
+  <item>
+    <item_type_id>324</item_type_id>
+    <item_name>Signal flag</item_name>
+    <price>36</price>
+  </item>
+  <item>
+    <item_type_id>325</item_type_id>
+    <item_name>Semaphore flags</item_name>
+    <price>54</price>
+  </item>
+  <item>
+    <item_type_id>326</item_type_id>
+    <item_name>Dog whistle</item_name>
+    <price>442</price>
+  </item>
+  <item>
+    <item_type_id>327</item_type_id>
+    <item_name>Dog bowl</item_name>
+    <price>154</price>
+  </item>
+  <item>
+    <item_type_id>328</item_type_id>
+    <item_name>Dog leash</item_name>
+    <price>119</price>
+  </item>
+  <item>
+    <item_type_id>329</item_type_id>
+    <item_name>Dog collar</item_name>
+    <price>239</price>
+  </item>
+  <item>
+    <item_type_id>330</item_type_id>
+    <item_name>Photo frame</item_name>
+    <price>291</price>
+  </item>
+  <item>
+    <item_type_id>331</item_type_id>
+    <item_name>Photo album</item_name>
+    <price>365</price>
+  </item>
+  <item>
+    <item_type_id>332</item_type_id>
+    <item_name>Envelope</item_name>
+    <price>61</price>
+  </item>
+  <item>
+    <item_type_id>333</item_type_id>
+    <item_name>Notepad</item_name>
+    <price>473</price>
+  </item>
+  <item>
+    <item_type_id>334</item_type_id>
+    <item_name>Sticky notes</item_name>
+    <price>83</price>
+  </item>
+  <item>
+    <item_type_id>335</item_type_id>
+    <item_name>Marker</item_name>
+    <price>72</price>
+  </item>
+  <item>
+    <item_type_id>336</item_type_id>
+    <item_name>Correction fluid</item_name>
+    <price>42</price>
+  </item>
+  <item>
+    <item_type_id>337</item_type_id>
+    <item_name>Glue stick</item_name>
+    <price>57</price>
+  </item>
+  <item>
+    <item_type_id>338</item_type_id>
+    <item_name>Scotch tape</item_name>
+    <price>67</price>
+  </item>
+  <item>
+    <item_type_id>339</item_type_id>
+    <item_name>Double-sided tape</item_name>
+    <price>40</price>
+  </item>
+  <item>
+    <item_type_id>340</item_type_id>
+    <item_name>Packaging tape</item_name>
+    <price>232</price>
+  </item>
+  <item>
+    <item_type_id>341</item_type_id>
+    <item_name>Twine</item_name>
+    <price>469</price>
+  </item>
+  <item>
+    <item_type_id>342</item_type_id>
+    <item_name>String</item_name>
+    <price>127</price>
+  </item>
+  <item>
+    <item_type_id>343</item_type_id>
+    <item_name>Fishing line</item_name>
+    <price>411</price>
+  </item>
+  <item>
+    <item_type_id>344</item_type_id>
+    <item_name>Wire</item_name>
+    <price>358</price>
+  </item>
+  <item>
+    <item_type_id>345</item_type_id>
+    <item_name>Chain</item_name>
+    <price>238</price>
+  </item>
+  <item>
+    <item_type_id>346</item_type_id>
+    <item_name>Cable</item_name>
+    <price>104</price>
+  </item>
+  <item>
+    <item_type_id>347</item_type_id>
+    <item_name>Keychain carabiner</item_name>
+    <price>235</price>
+  </item>
+  <item>
+    <item_type_id>348</item_type_id>
+    <item_name>Key fob</item_name>
+    <price>50</price>
+  </item>
+  <item>
+    <item_type_id>349</item_type_id>
+    <item_name>Pendant</item_name>
+    <price>397</price>
+  </item>
+  <item>
+    <item_type_id>350</item_type_id>
+    <item_name>Pendant</item_name>
+    <price>299</price>
+  </item>
+  <item>
+    <item_type_id>351</item_type_id>
+    <item_name>Locket</item_name>
+    <price>292</price>
+  </item>
+  <item>
+    <item_type_id>352</item_type_id>
+    <item_name>Medal</item_name>
+    <price>185</price>
+  </item>
+  <item>
+    <item_type_id>353</item_type_id>
+    <item_name>Badge</item_name>
+    <price>261</price>
+  </item>
+  <item>
+    <item_type_id>354</item_type_id>
+    <item_name>Patch</item_name>
+    <price>121</price>
+  </item>
+  <item>
+    <item_type_id>355</item_type_id>
+    <item_name>Chevron</item_name>
+    <price>145</price>
+  </item>
+  <item>
+    <item_type_id>356</item_type_id>
+    <item_name>Emblem</item_name>
+    <price>492</price>
+  </item>
+  <item>
+    <item_type_id>357</item_type_id>
+    <item_name>Medal ribbon</item_name>
+    <price>433</price>
+  </item>
+  <item>
+    <item_type_id>358</item_type_id>
+    <item_name>Medal case</item_name>
+    <price>284</price>
+  </item>
+  <item>
+    <item_type_id>359</item_type_id>
+    <item_name>Lanyard</item_name>
+    <price>137</price>
+  </item>
+  <item>
+    <item_type_id>360</item_type_id>
+    <item_name>Eyeglass chain</item_name>
+    <price>280</price>
+  </item>
+  <item>
+    <item_type_id>361</item_type_id>
+    <item_name>Shoelaces</item_name>
+    <price>195</price>
+  </item>
+  <item>
+    <item_type_id>362</item_type_id>
+    <item_name>Zipper</item_name>
+    <price>180</price>
+  </item>
+  <item>
+    <item_type_id>363</item_type_id>
+    <item_name>Buttons</item_name>
+    <price>62</price>
+  </item>
+  <item>
+    <item_type_id>364</item_type_id>
+    <item_name>Snap fasteners</item_name>
+    <price>135</price>
+  </item>
+  <item>
+    <item_type_id>365</item_type_id>
+    <item_name>Hook-and-loop tape (Velcro)</item_name>
+    <price>499</price>
+  </item>
+  <item>
+    <item_type_id>366</item_type_id>
+    <item_name>Buckle</item_name>
+    <price>65</price>
+  </item>
+  <item>
+    <item_type_id>367</item_type_id>
+    <item_name>Carabiner clip</item_name>
+    <price>300</price>
+  </item>
+  <item>
+    <item_type_id>368</item_type_id>
+    <item_name>Tie clip</item_name>
+    <price>403</price>
+  </item>
+  <item>
+    <item_type_id>369</item_type_id>
+    <item_name>Cufflinks</item_name>
+    <price>387</price>
+  </item>
+  <item>
+    <item_type_id>370</item_type_id>
+    <item_name>Safety pin</item_name>
+    <price>451</price>
+  </item>
+  <item>
+    <item_type_id>371</item_type_id>
+    <item_name>Needle</item_name>
+    <price>268</price>
+  </item>
+  <item>
+    <item_type_id>372</item_type_id>
+    <item_name>Thread</item_name>
+    <price>45</price>
+  </item>
+  <item>
+    <item_type_id>373</item_type_id>
+    <item_name>Thimble</item_name>
+    <price>83</price>
+  </item>
+  <item>
+    <item_type_id>374</item_type_id>
+    <item_name>Crochet hook</item_name>
+    <price>365</price>
+  </item>
+  <item>
+    <item_type_id>375</item_type_id>
+    <item_name>Knitting needles</item_name>
+    <price>64</price>
+  </item>
+  <item>
+    <item_type_id>376</item_type_id>
+    <item_name>Embroidery hoop</item_name>
+    <price>265</price>
+  </item>
+  <item>
+    <item_type_id>377</item_type_id>
+    <item_name>Fabric scissors</item_name>
+    <price>161</price>
+  </item>
+  <item>
+    <item_type_id>378</item_type_id>
+    <item_name>Measuring tape</item_name>
+    <price>467</price>
+  </item>
+  <item>
+    <item_type_id>379</item_type_id>
+    <item_name>Tape measure</item_name>
+    <price>49</price>
+  </item>
+  <item>
+    <item_type_id>380</item_type_id>
+    <item_name>Square</item_name>
+    <price>257</price>
+  </item>
+  <item>
+    <item_type_id>381</item_type_id>
+    <item_name>Level</item_name>
+    <price>359</price>
+  </item>
+  <item>
+    <item_type_id>382</item_type_id>
+    <item_name>Plumb bob</item_name>
+    <price>367</price>
+  </item>
+  <item>
+    <item_type_id>383</item_type_id>
+    <item_name>Tape measure</item_name>
+    <price>456</price>
+  </item>
+  <item>
+    <item_type_id>384</item_type_id>
+    <item_name>Hammer</item_name>
+    <price>413</price>
+  </item>
+  <item>
+    <item_type_id>385</item_type_id>
+    <item_name>Screwdriver</item_name>
+    <price>431</price>
+  </item>
+  <item>
+    <item_type_id>386</item_type_id>
+    <item_name>Pliers</item_name>
+    <price>166</price>
+  </item>
+  <item>
+    <item_type_id>387</item_type_id>
+    <item_name>Wire cutters</item_name>
+    <price>110</price>
+  </item>
+  <item>
+    <item_type_id>388</item_type_id>
+    <item_name>File</item_name>
+    <price>277</price>
+  </item>
+  <item>
+    <item_type_id>389</item_type_id>
+    <item_name>Needle file</item_name>
+    <price>104</price>
+  </item>
+  <item>
+    <item_type_id>390</item_type_id>
+    <item_name>Awl</item_name>
+    <price>62</price>
+  </item>
+  <item>
+    <item_type_id>391</item_type_id>
+    <item_name>Chisel</item_name>
+    <price>372</price>
+  </item>
+  <item>
+    <item_type_id>392</item_type_id>
+    <item_name>Chisel</item_name>
+    <price>77</price>
+  </item>
+  <item>
+    <item_type_id>393</item_type_id>
+    <item_name>Plane</item_name>
+    <price>370</price>
+  </item>
+  <item>
+    <item_type_id>394</item_type_id>
+    <item_name>Jointer</item_name>
+    <price>127</price>
+  </item>
+  <item>
+    <item_type_id>395</item_type_id>
+    <item_name>Hand drill</item_name>
+    <price>464</price>
+  </item>
+  <item>
+    <item_type_id>396</item_type_id>
+    <item_name>Drill</item_name>
+    <price>267</price>
+  </item>
+  <item>
+    <item_type_id>397</item_type_id>
+    <item_name>Drill bit</item_name>
+    <price>380</price>
+  </item>
+  <item>
+    <item_type_id>398</item_type_id>
+    <item_name>Chisel (cold)</item_name>
+    <price>289</price>
+  </item>
+  <item>
+    <item_type_id>399</item_type_id>
+    <item_name>Pincers</item_name>
+    <price>207</price>
+  </item>
+  <item>
+    <item_type_id>400</item_type_id>
+    <item_name>Wrench</item_name>
+    <price>86</price>
+  </item>
+  <item>
+    <item_type_id>401</item_type_id>
+    <item_name>Pipe wrench</item_name>
+    <price>10</price>
+  </item>
+  <item>
+    <item_type_id>402</item_type_id>
+    <item_name>Adjustable wrench</item_name>
+    <price>315</price>
+  </item>
+  <item>
+    <item_type_id>403</item_type_id>
+    <item_name>Ratchet wrench</item_name>
+    <price>435</price>
+  </item>
+  <item>
+    <item_type_id>404</item_type_id>
+    <item_name>Sockets</item_name>
+    <price>192</price>
+  </item>
+  <item>
+    <item_type_id>405</item_type_id>
+    <item_name>Socket wrench handle</item_name>
+    <price>270</price>
+  </item>
+  <item>
+    <item_type_id>406</item_type_id>
+    <item_name>Socket extension</item_name>
+    <price>286</price>
+  </item>
+  <item>
+    <item_type_id>407</item_type_id>
+    <item_name>Torque wrench</item_name>
+    <price>15</price>
+  </item>
+  <item>
+    <item_type_id>408</item_type_id>
+    <item_name>Hex key (Allen key)</item_name>
+    <price>403</price>
+  </item>
+  <item>
+    <item_type_id>409</item_type_id>
+    <item_name>Torx key</item_name>
+    <price>173</price>
+  </item>
+  <item>
+    <item_type_id>410</item_type_id>
+    <item_name>Screwdriver bit</item_name>
+    <price>432</price>
+  </item>
+  <item>
+    <item_type_id>411</item_type_id>
+    <item_name>Bit holder</item_name>
+    <price>106</price>
+  </item>
+  <item>
+    <item_type_id>412</item_type_id>
+    <item_name>Multitool</item_name>
+    <price>462</price>
+  </item>
+  <item>
+    <item_type_id>413</item_type_id>
+    <item_name>Hacksaw</item_name>
+    <price>218</price>
+  </item>
+  <item>
+    <item_type_id>414</item_type_id>
+    <item_name>Hacksaw (for metal)</item_name>
+    <price>142</price>
+  </item>
+  <item>
+    <item_type_id>415</item_type_id>
+    <item_name>Hacksaw blade</item_name>
+    <price>128</price>
+  </item>
+  <item>
+    <item_type_id>416</item_type_id>
+    <item_name>Jigsaw</item_name>
+    <price>454</price>
+  </item>
+  <item>
+    <item_type_id>417</item_type_id>
+    <item_name>Chainsaw</item_name>
+    <price>377</price>
+  </item>
+  <item>
+    <item_type_id>418</item_type_id>
+    <item_name>Circular saw</item_name>
+    <price>107</price>
+  </item>
+  <item>
+    <item_type_id>419</item_type_id>
+    <item_name>Milling cutter</item_name>
+    <price>128</price>
+  </item>
+  <item>
+    <item_type_id>420</item_type_id>
+    <item_name>Sanding block</item_name>
+    <price>178</price>
+  </item>
+  <item>
+    <item_type_id>421</item_type_id>
+    <item_name>Sandpaper</item_name>
+    <price>87</price>
+  </item>
+  <item>
+    <item_type_id>422</item_type_id>
+    <item_name>Putty knife</item_name>
+    <price>282</price>
+  </item>
+  <item>
+    <item_type_id>423</item_type_id>
+    <item_name>Paintbrush</item_name>
+    <price>378</price>
+  </item>
+  <item>
+    <item_type_id>424</item_type_id>
+    <item_name>Paint roller</item_name>
+    <price>89</price>
+  </item>
+  <item>
+    <item_type_id>425</item_type_id>
+    <item_name>Paint tray</item_name>
+    <price>373</price>
+  </item>
+  <item>
+    <item_type_id>426</item_type_id>
+    <item_name>Rag</item_name>
+    <price>132</price>
+  </item>
+  <item>
+    <item_type_id>427</item_type_id>
+    <item_name>Painter's tape</item_name>
+    <price>408</price>
+  </item>
+  <item>
+    <item_type_id>428</item_type_id>
+    <item_name>Painter's tape</item_name>
+    <price>40</price>
+  </item>
+  <item>
+    <item_type_id>429</item_type_id>
+    <item_name>Primer</item_name>
+    <price>395</price>
+  </item>
+  <item>
+    <item_type_id>430</item_type_id>
+    <item_name>Paint</item_name>
+    <price>405</price>
+  </item>
+  <item>
+    <item_type_id>431</item_type_id>
+    <item_name>Varnish</item_name>
+    <price>292</price>
+  </item>
+  <item>
+    <item_type_id>432</item_type_id>
+    <item_name>Solvent</item_name>
+    <price>241</price>
+  </item>
+  <item>
+    <item_type_id>433</item_type_id>
+    <item_name>Degreaser</item_name>
+    <price>317</price>
+  </item>
+  <item>
+    <item_type_id>434</item_type_id>
+    <item_name>Sealant</item_name>
+    <price>112</price>
+  </item>
+  <item>
+    <item_type_id>435</item_type_id>
+    <item_name>Spray foam</item_name>
+    <price>149</price>
+  </item>
+  <item>
+    <item_type_id>436</item_type_id>
+    <item_name>Superglue</item_name>
+    <price>359</price>
+  </item>
+  <item>
+    <item_type_id>437</item_type_id>
+    <item_name>Epoxy resin</item_name>
+    <price>226</price>
+  </item>
+  <item>
+    <item_type_id>438</item_type_id>
+    <item_name>Cold weld</item_name>
+    <price>477</price>
+  </item>
+  <item>
+    <item_type_id>439</item_type_id>
+    <item_name>PTFE tape</item_name>
+    <price>349</price>
+  </item>
+  <item>
+    <item_type_id>440</item_type_id>
+    <item_name>Plumber's tape</item_name>
+    <price>36</price>
+  </item>
+  <item>
+    <item_type_id>441</item_type_id>
+    <item_name>Sealing tape</item_name>
+    <price>206</price>
+  </item>
+  <item>
+    <item_type_id>442</item_type_id>
+    <item_name>Electrical tape</item_name>
+    <price>488</price>
+  </item>
+  <item>
+    <item_type_id>443</item_type_id>
+    <item_name>Heat shrink tubing</item_name>
+    <price>67</price>
+  </item>
+  <item>
+    <item_type_id>444</item_type_id>
+    <item_name>Solder</item_name>
+    <price>455</price>
+  </item>
+  <item>
+    <item_type_id>445</item_type_id>
+    <item_name>Flux</item_name>
+    <price>352</price>
+  </item>
+  <item>
+    <item_type_id>446</item_type_id>
+    <item_name>Soldering iron</item_name>
+    <price>64</price>
+  </item>
+  <item>
+    <item_type_id>447</item_type_id>
+    <item_name>Solder sucker</item_name>
+    <price>392</price>
+  </item>
+  <item>
+    <item_type_id>448</item_type_id>
+    <item_name>PCB holder</item_name>
+    <price>371</price>
+  </item>
+  <item>
+    <item_type_id>449</item_type_id>
+    <item_name>Soldering tweezers</item_name>
+    <price>42</price>
+  </item>
+  <item>
+    <item_type_id>450</item_type_id>
+    <item_name>Soldering magnifier</item_name>
+    <price>424</price>
+  </item>
+  <item>
+    <item_type_id>451</item_type_id>
+    <item_name>Multimeter</item_name>
+    <price>114</price>
+  </item>
+  <item>
+    <item_type_id>452</item_type_id>
+    <item_name>Tester</item_name>
+    <price>120</price>
+  </item>
+  <item>
+    <item_type_id>453</item_type_id>
+    <item_name>Voltage tester</item_name>
+    <price>220</price>
+  </item>
+  <item>
+    <item_type_id>454</item_type_id>
+    <item_name>Feeler gauge</item_name>
+    <price>421</price>
+  </item>
+  <item>
+    <item_type_id>455</item_type_id>
+    <item_name>Programmer</item_name>
+    <price>209</price>
+  </item>
+  <item>
+    <item_type_id>456</item_type_id>
+    <item_name>Oscilloscope</item_name>
+    <price>484</price>
+  </item>
+  <item>
+    <item_type_id>457</item_type_id>
+    <item_name>Signal generator</item_name>
+    <price>35</price>
+  </item>
+  <item>
+    <item_type_id>458</item_type_id>
+    <item_name>Function generator</item_name>
+    <price>159</price>
+  </item>
+  <item>
+    <item_type_id>459</item_type_id>
+    <item_name>Noise generator</item_name>
+    <price>235</price>
+  </item>
+  <item>
+    <item_type_id>460</item_type_id>
+    <item_name>Network switch</item_name>
+    <price>40</price>
+  </item>
+  <item>
+    <item_type_id>461</item_type_id>
+    <item_name>Router</item_name>
+    <price>345</price>
+  </item>
+  <item>
+    <item_type_id>462</item_type_id>
+    <item_name>Hub</item_name>
+    <price>394</price>
+  </item>
+  <item>
+    <item_type_id>463</item_type_id>
+    <item_name>Modem</item_name>
+    <price>228</price>
+  </item>
+  <item>
+    <item_type_id>464</item_type_id>
+    <item_name>Access point</item_name>
+    <price>257</price>
+  </item>
+  <item>
+    <item_type_id>465</item_type_id>
+    <item_name>Antenna</item_name>
+    <price>109</price>
+  </item>
+  <item>
+    <item_type_id>466</item_type_id>
+    <item_name>Amplifier</item_name>
+    <price>82</price>
+  </item>
+  <item>
+    <item_type_id>467</item_type_id>
+    <item_name>Repeater</item_name>
+    <price>173</price>
+  </item>
+  <item>
+    <item_type_id>468</item_type_id>
+    <item_name>Transceiver</item_name>
+    <price>404</price>
+  </item>
+  <item>
+    <item_type_id>469</item_type_id>
+    <item_name>Radio transmitter</item_name>
+    <price>446</price>
+  </item>
+  <item>
+    <item_type_id>470</item_type_id>
+    <item_name>Television</item_name>
+    <price>202</price>
+  </item>
+  <item>
+    <item_type_id>471</item_type_id>
+    <item_name>Monitor</item_name>
+    <price>355</price>
+  </item>
+  <item>
+    <item_type_id>472</item_type_id>
+    <item_name>Projector</item_name>
+    <price>452</price>
+  </item>
+  <item>
+    <item_type_id>473</item_type_id>
+    <item_name>Screen</item_name>
+    <price>70</price>
+  </item>
+  <item>
+    <item_type_id>474</item_type_id>
+    <item_name>Speakers</item_name>
+    <price>284</price>
+  </item>
+  <item>
+    <item_type_id>475</item_type_id>
+    <item_name>Headphones</item_name>
+    <price>18</price>
+  </item>
+  <item>
+    <item_type_id>476</item_type_id>
+    <item_name>Microphone</item_name>
+    <price>246</price>
+  </item>
+  <item>
+    <item_type_id>477</item_type_id>
+    <item_name>Webcam</item_name>
+    <price>123</price>
+  </item>
+  <item>
+    <item_type_id>478</item_type_id>
+    <item_name>Camera</item_name>
+    <price>392</price>
+  </item>
+  <item>
+    <item_type_id>479</item_type_id>
+    <item_name>Camcorder</item_name>
+    <price>394</price>
+  </item>
+  <item>
+    <item_type_id>480</item_type_id>
+    <item_name>Lens</item_name>
+    <price>49</price>
+  </item>
+  <item>
+    <item_type_id>481</item_type_id>
+    <item_name>Tripod</item_name>
+    <price>170</price>
+  </item>
+  <item>
+    <item_type_id>482</item_type_id>
+    <item_name>Monopod</item_name>
+    <price>444</price>
+  </item>
+  <item>
+    <item_type_id>483</item_type_id>
+    <item_name>Lens filter</item_name>
+    <price>201</price>
+  </item>
+  <item>
+    <item_type_id>484</item_type_id>
+    <item_name>Camera flash</item_name>
+    <price>247</price>
+  </item>
+  <item>
+    <item_type_id>485</item_type_id>
+    <item_name>Flash sync</item_name>
+    <price>444</price>
+  </item>
+  <item>
+    <item_type_id>486</item_type_id>
+    <item_name>Remote control</item_name>
+    <price>484</price>
+  </item>
+  <item>
+    <item_type_id>487</item_type_id>
+    <item_name>Camera battery</item_name>
+    <price>495</price>
+  </item>
+  <item>
+    <item_type_id>488</item_type_id>
+    <item_name>Memory card</item_name>
+    <price>83</price>
+  </item>
+  <item>
+    <item_type_id>489</item_type_id>
+    <item_name>Card reader</item_name>
+    <price>339</price>
+  </item>
+  <item>
+    <item_type_id>490</item_type_id>
+    <item_name>Camera bag</item_name>
+    <price>132</price>
+  </item>
+  <item>
+    <item_type_id>491</item_type_id>
+    <item_name>Camera backpack</item_name>
+    <price>287</price>
+  </item>
+  <item>
+    <item_type_id>492</item_type_id>
+    <item_name>Equipment case</item_name>
+    <price>496</price>
+  </item>
+  <item>
+    <item_type_id>493</item_type_id>
+    <item_name>Suitcase</item_name>
+    <price>272</price>
+  </item>
+  <item>
+    <item_type_id>494</item_type_id>
+    <item_name>Hard case</item_name>
+    <price>141</price>
+  </item>
+  <item>
+    <item_type_id>495</item_type_id>
+    <item_name>Poster tube</item_name>
+    <price>416</price>
+  </item>
+  <item>
+    <item_type_id>496</item_type_id>
+    <item_name>Briefcase</item_name>
+    <price>277</price>
+  </item>
+  <item>
+    <item_type_id>497</item_type_id>
+    <item_name>Attache case</item_name>
+    <price>230</price>
+  </item>
+  <item>
+    <item_type_id>498</item_type_id>
+    <item_name>Folder</item_name>
+    <price>175</price>
+  </item>
+  <item>
+    <item_type_id>499</item_type_id>
+    <item_name>Sheet protector</item_name>
+    <price>349</price>
+  </item>
+  <item>
+    <item_type_id>500</item_type_id>
+    <item_name>Document envelope</item_name>
+    <price>33</price>
+  </item>
+  <item>
+    <item_type_id>501</item_type_id>
+    <item_name>Pencil case</item_name>
+    <price>307</price>
+  </item>
+  <item>
+    <item_type_id>502</item_type_id>
+    <item_name>Pen holder</item_name>
+    <price>489</price>
+  </item>
+  <item>
+    <item_type_id>503</item_type_id>
+    <item_name>Paper tray</item_name>
+    <price>403</price>
+  </item>
+  <item>
+    <item_type_id>504</item_type_id>
+    <item_name>Desk organizer</item_name>
+    <price>371</price>
+  </item>
+  <item>
+    <item_type_id>505</item_type_id>
+    <item_name>Knife block</item_name>
+    <price>121</price>
+  </item>
+  <item>
+    <item_type_id>506</item_type_id>
+    <item_name>Coat hanger</item_name>
+    <price>412</price>
+  </item>
+  <item>
+    <item_type_id>507</item_type_id>
+    <item_name>Clothes hanger</item_name>
+    <price>185</price>
+  </item>
+  <item>
+    <item_type_id>508</item_type_id>
+    <item_name>Clothes dryer</item_name>
+    <price>73</price>
+  </item>
+  <item>
+    <item_type_id>509</item_type_id>
+    <item_name>Ironing board</item_name>
+    <price>434</price>
+  </item>
+  <item>
+    <item_type_id>510</item_type_id>
+    <item_name>Iron</item_name>
+    <price>14</price>
+  </item>
+  <item>
+    <item_type_id>511</item_type_id>
+    <item_name>Garment steamer</item_name>
+    <price>86</price>
+  </item>
+  <item>
+    <item_type_id>512</item_type_id>
+    <item_name>Sewing machine</item_name>
+    <price>144</price>
+  </item>
+  <item>
+    <item_type_id>513</item_type_id>
+    <item_name>Overlocker</item_name>
+    <price>340</price>
+  </item>
+  <item>
+    <item_type_id>514</item_type_id>
+    <item_name>Buttonhole machine</item_name>
+    <price>204</price>
+  </item>
+  <item>
+    <item_type_id>515</item_type_id>
+    <item_name>Embroidery machine</item_name>
+    <price>367</price>
+  </item>
+  <item>
+    <item_type_id>516</item_type_id>
+    <item_name>Knitting machine</item_name>
+    <price>308</price>
+  </item>
+  <item>
+    <item_type_id>517</item_type_id>
+    <item_name>Spinning machine</item_name>
+    <price>76</price>
+  </item>
+  <item>
+    <item_type_id>518</item_type_id>
+    <item_name>Loom</item_name>
+    <price>252</price>
+  </item>
+  <item>
+    <item_type_id>519</item_type_id>
+    <item_name>Carding machine</item_name>
+    <price>12</price>
+  </item>
+  <item>
+    <item_type_id>520</item_type_id>
+    <item_name>Carding machine</item_name>
+    <price>12</price>
+  </item>
+  <item>
+    <item_type_id>521</item_type_id>
+    <item_name>Drawing frame</item_name>
+    <price>410</price>
+  </item>
+  <item>
+    <item_type_id>522</item_type_id>
+    <item_name>Twisting frame</item_name>
+    <price>101</price>
+  </item>
+  <item>
+    <item_type_id>523</item_type_id>
+    <item_name>Winding machine</item_name>
+    <price>257</price>
+  </item>
+  <item>
+    <item_type_id>524</item_type_id>
+    <item_name>Warping machine</item_name>
+    <price>416</price>
+  </item>
+  <item>
+    <item_type_id>525</item_type_id>
+    <item_name>Sizing machine</item_name>
+    <price>319</price>
+  </item>
+  <item>
+    <item_type_id>526</item_type_id>
+    <item_name>Jacquard machine</item_name>
+    <price>47</price>
+  </item>
+  <item>
+    <item_type_id>527</item_type_id>
+    <item_name>Raising machine</item_name>
+    <price>44</price>
+  </item>
+  <item>
+    <item_type_id>528</item_type_id>
+    <item_name>Washing machine</item_name>
+    <price>25</price>
+  </item>
+  <item>
+    <item_type_id>529</item_type_id>
+    <item_name>Dryer</item_name>
+    <price>337</price>
+  </item>
+  <item>
+    <item_type_id>530</item_type_id>
+    <item_name>Dishwasher</item_name>
+    <price>301</price>
+  </item>
+  <item>
+    <item_type_id>531</item_type_id>
+    <item_name>Refrigerator</item_name>
+    <price>470</price>
+  </item>
+  <item>
+    <item_type_id>532</item_type_id>
+    <item_name>Freezer</item_name>
+    <price>374</price>
+  </item>
+  <item>
+    <item_type_id>533</item_type_id>
+    <item_name>Oven</item_name>
+    <price>460</price>
+  </item>
+  <item>
+    <item_type_id>534</item_type_id>
+    <item_name>Stove</item_name>
+    <price>437</price>
+  </item>
+  <item>
+    <item_type_id>535</item_type_id>
+    <item_name>Cooktop</item_name>
+    <price>411</price>
+  </item>
+  <item>
+    <item_type_id>536</item_type_id>
+    <item_name>Range hood</item_name>
+    <price>140</price>
+  </item>
+  <item>
+    <item_type_id>537</item_type_id>
+    <item_name>Microwave oven</item_name>
+    <price>110</price>
+  </item>
+  <item>
+    <item_type_id>538</item_type_id>
+    <item_name>Toaster</item_name>
+    <price>71</price>
+  </item>
+  <item>
+    <item_type_id>539</item_type_id>
+    <item_name>Kettle</item_name>
+    <price>315</price>
+  </item>
+  <item>
+    <item_type_id>540</item_type_id>
+    <item_name>Coffee maker</item_name>
+    <price>171</price>
+  </item>
+  <item>
+    <item_type_id>541</item_type_id>
+    <item_name>Coffee grinder</item_name>
+    <price>120</price>
+  </item>
+  <item>
+    <item_type_id>542</item_type_id>
+    <item_name>Juicer</item_name>
+    <price>250</price>
+  </item>
+  <item>
+    <item_type_id>543</item_type_id>
+    <item_name>Blender</item_name>
+    <price>472</price>
+  </item>
+  <item>
+    <item_type_id>544</item_type_id>
+    <item_name>Mixer</item_name>
+    <price>380</price>
+  </item>
+  <item>
+    <item_type_id>545</item_type_id>
+    <item_name>Meat grinder</item_name>
+    <price>357</price>
+  </item>
+  <item>
+    <item_type_id>546</item_type_id>
+    <item_name>Food processor</item_name>
+    <price>14</price>
+  </item>
+  <item>
+    <item_type_id>547</item_type_id>
+    <item_name>Bread maker</item_name>
+    <price>353</price>
+  </item>
+  <item>
+    <item_type_id>548</item_type_id>
+    <item_name>Yogurt maker</item_name>
+    <price>263</price>
+  </item>
+  <item>
+    <item_type_id>549</item_type_id>
+    <item_name>Slow cooker</item_name>
+    <price>335</price>
+  </item>
+  <item>
+    <item_type_id>550</item_type_id>
+    <item_name>Steamer</item_name>
+    <price>333</price>
+  </item>
+  <item>
+    <item_type_id>551</item_type_id>
+    <item_name>Air fryer</item_name>
+    <price>197</price>
+  </item>
+  <item>
+    <item_type_id>552</item_type_id>
+    <item_name>Electric grill</item_name>
+    <price>34</price>
+  </item>
+  <item>
+    <item_type_id>553</item_type_id>
+    <item_name>Waffle iron</item_name>
+    <price>348</price>
+  </item>
+  <item>
+    <item_type_id>554</item_type_id>
+    <item_name>Sandwich maker</item_name>
+    <price>348</price>
+  </item>
+  <item>
+    <item_type_id>555</item_type_id>
+    <item_name>Dishes</item_name>
+    <price>91</price>
+  </item>
+  <item>
+    <item_type_id>556</item_type_id>
+    <item_name>Pot</item_name>
+    <price>440</price>
+  </item>
+  <item>
+    <item_type_id>557</item_type_id>
+    <item_name>Frying pan</item_name>
+    <price>89</price>
+  </item>
+  <item>
+    <item_type_id>558</item_type_id>
+    <item_name>Saucepan</item_name>
+    <price>123</price>
+  </item>
+  <item>
+    <item_type_id>559</item_type_id>
+    <item_name>Ladle</item_name>
+    <price>367</price>
+  </item>
+  <item>
+    <item_type_id>560</item_type_id>
+    <item_name>Cast iron pot</item_name>
+    <price>148</price>
+  </item>
+  <item>
+    <item_type_id>561</item_type_id>
+    <item_name>Duck roasting pan</item_name>
+    <price>445</price>
+  </item>
+  <item>
+    <item_type_id>562</item_type_id>
+    <item_name>Goose roasting pan</item_name>
+    <price>400</price>
+  </item>
+  <item>
+    <item_type_id>563</item_type_id>
+    <item_name>Baking tray</item_name>
+    <price>395</price>
+  </item>
+  <item>
+    <item_type_id>564</item_type_id>
+    <item_name>Baking pan</item_name>
+    <price>206</price>
+  </item>
+  <item>
+    <item_type_id>565</item_type_id>
+    <item_name>Colander</item_name>
+    <price>445</price>
+  </item>
+  <item>
+    <item_type_id>566</item_type_id>
+    <item_name>Sieve</item_name>
+    <price>238</price>
+  </item>
+  <item>
+    <item_type_id>567</item_type_id>
+    <item_name>Sieve</item_name>
+    <price>81</price>
+  </item>
+  <item>
+    <item_type_id>568</item_type_id>
+    <item_name>Grater</item_name>
+    <price>11</price>
+  </item>
+  <item>
+    <item_type_id>569</item_type_id>
+    <item_name>Mandoline slicer</item_name>
+    <price>476</price>
+  </item>
+  <item>
+    <item_type_id>570</item_type_id>
+    <item_name>Vegetable peeler</item_name>
+    <price>36</price>
+  </item>
+  <item>
+    <item_type_id>571</item_type_id>
+    <item_name>Cheese knife</item_name>
+    <price>205</price>
+  </item>
+  <item>
+    <item_type_id>572</item_type_id>
+    <item_name>Bread knife</item_name>
+    <price>156</price>
+  </item>
+  <item>
+    <item_type_id>573</item_type_id>
+    <item_name>Butter knife</item_name>
+    <price>323</price>
+  </item>
+  <item>
+    <item_type_id>574</item_type_id>
+    <item_name>Steak knife</item_name>
+    <price>421</price>
+  </item>
+  <item>
+    <item_type_id>575</item_type_id>
+    <item_name>Meat fork</item_name>
+    <price>348</price>
+  </item>
+  <item>
+    <item_type_id>576</item_type_id>
+    <item_name>Spatula</item_name>
+    <price>454</price>
+  </item>
+  <item>
+    <item_type_id>577</item_type_id>
+    <item_name>Slotted spoon</item_name>
+    <price>194</price>
+  </item>
+  <item>
+    <item_type_id>578</item_type_id>
+    <item_name>Ladle</item_name>
+    <price>498</price>
+  </item>
+  <item>
+    <item_type_id>579</item_type_id>
+    <item_name>Tongs</item_name>
+    <price>348</price>
+  </item>
+  <item>
+    <item_type_id>580</item_type_id>
+    <item_name>Rolling pin</item_name>
+    <price>296</price>
+  </item>
+  <item>
+    <item_type_id>581</item_type_id>
+    <item_name>Cutting board</item_name>
+    <price>287</price>
+  </item>
+  <item>
+    <item_type_id>582</item_type_id>
+    <item_name>Kitchen scale</item_name>
+    <price>284</price>
+  </item>
+  <item>
+    <item_type_id>583</item_type_id>
+    <item_name>Timer</item_name>
+    <price>265</price>
+  </item>
+  <item>
+    <item_type_id>584</item_type_id>
+    <item_name>Kitchen thermometer</item_name>
+    <price>82</price>
+  </item>
+  <item>
+    <item_type_id>585</item_type_id>
+    <item_name>Measuring cup</item_name>
+    <price>377</price>
+  </item>
+  <item>
+    <item_type_id>586</item_type_id>
+    <item_name>Measuring spoons</item_name>
+    <price>457</price>
+  </item>
+  <item>
+    <item_type_id>587</item_type_id>
+    <item_name>Whisk</item_name>
+    <price>382</price>
+  </item>
+  <item>
+    <item_type_id>588</item_type_id>
+    <item_name>Spice grinder</item_name>
+    <price>232</price>
+  </item>
+  <item>
+    <item_type_id>589</item_type_id>
+    <item_name>Mortar and pestle</item_name>
+    <price>249</price>
+  </item>
+  <item>
+    <item_type_id>590</item_type_id>
+    <item_name>Garlic press</item_name>
+    <price>187</price>
+  </item>
+  <item>
+    <item_type_id>591</item_type_id>
+    <item_name>Citrus juicer</item_name>
+    <price>238</price>
+  </item>
+  <item>
+    <item_type_id>592</item_type_id>
+    <item_name>Can opener</item_name>
+    <price>462</price>
+  </item>
+  <item>
+    <item_type_id>593</item_type_id>
+    <item_name>Bottle opener</item_name>
+    <price>128</price>
+  </item>
+  <item>
+    <item_type_id>594</item_type_id>
+    <item_name>Corkscrew</item_name>
+    <price>205</price>
+  </item>
+  <item>
+    <item_type_id>595</item_type_id>
+    <item_name>Ice tongs</item_name>
+    <price>324</price>
+  </item>
+  <item>
+    <item_type_id>596</item_type_id>
+    <item_name>Ice cube tray</item_name>
+    <price>246</price>
+  </item>
+  <item>
+    <item_type_id>597</item_type_id>
+    <item_name>Egg cup</item_name>
+    <price>210</price>
+  </item>
+  <item>
+    <item_type_id>598</item_type_id>
+    <item_name>Poultry shears</item_name>
+    <price>445</price>
+  </item>
+  <item>
+    <item_type_id>599</item_type_id>
+    <item_name>Meat cleaver</item_name>
+    <price>57</price>
+  </item>
+  <item>
+    <item_type_id>600</item_type_id>
+    <item_name>Meat tenderizer</item_name>
+    <price>230</price>
+  </item>
+  <item>
+    <item_type_id>601</item_type_id>
+    <item_name>Larding needles</item_name>
+    <price>474</price>
+  </item>
+  <item>
+    <item_type_id>602</item_type_id>
+    <item_name>Butcher's twine</item_name>
+    <price>416</price>
+  </item>
+  <item>
+    <item_type_id>603</item_type_id>
+    <item_name>Pastry bags</item_name>
+    <price>107</price>
+  </item>
+  <item>
+    <item_type_id>604</item_type_id>
+    <item_name>Piping tips</item_name>
+    <price>259</price>
+  </item>
+  <item>
+    <item_type_id>605</item_type_id>
+    <item_name>Airbrush</item_name>
+    <price>395</price>
+  </item>
+  <item>
+    <item_type_id>606</item_type_id>
+    <item_name>Pastry brushes</item_name>
+    <price>398</price>
+  </item>
+  <item>
+    <item_type_id>607</item_type_id>
+    <item_name>Stencils</item_name>
+    <price>271</price>
+  </item>
+  <item>
+    <item_type_id>608</item_type_id>
+    <item_name>Pastry scrapers</item_name>
+    <price>221</price>
+  </item>
+  <item>
+    <item_type_id>609</item_type_id>
+    <item_name>Brushes</item_name>
+    <price>212</price>
+  </item>
+  <item>
+    <item_type_id>610</item_type_id>
+    <item_name>Scrapers</item_name>
+    <price>212</price>
+  </item>
+  <item>
+    <item_type_id>611</item_type_id>
+    <item_name>Spatulas</item_name>
+    <price>87</price>
+  </item>
+  <item>
+    <item_type_id>612</item_type_id>
+    <item_name>Putty knives</item_name>
+    <price>469</price>
+  </item>
+  <item>
+    <item_type_id>613</item_type_id>
+    <item_name>Rollers</item_name>
+    <price>85</price>
+  </item>
+  <item>
+    <item_type_id>614</item_type_id>
+    <item_name>Paint brushes</item_name>
+    <price>395</price>
+  </item>
+  <item>
+    <item_type_id>615</item_type_id>
+    <item_name>Paint sprayer</item_name>
+    <price>458</price>
+  </item>
+  <item>
+    <item_type_id>616</item_type_id>
+    <item_name>Paint containers</item_name>
+    <price>357</price>
+  </item>
+  <item>
+    <item_type_id>617</item_type_id>
+    <item_name>Paint mixer</item_name>
+    <price>140</price>
+  </item>
+  <item>
+    <item_type_id>618</item_type_id>
+    <item_name>Stepladder</item_name>
+    <price>363</price>
+  </item>
+  <item>
+    <item_type_id>619</item_type_id>
+    <item_name>Multi-position ladder</item_name>
+    <price>258</price>
+  </item>
+  <item>
+    <item_type_id>620</item_type_id>
+    <item_name>Scaffolding</item_name>
+    <price>136</price>
+  </item>
+  <item>
+    <item_type_id>621</item_type_id>
+    <item_name>Work platform</item_name>
+    <price>158</price>
+  </item>
+  <item>
+    <item_type_id>622</item_type_id>
+    <item_name>Sawhorses</item_name>
+    <price>377</price>
+  </item>
+  <item>
+    <item_type_id>623</item_type_id>
+    <item_name>Podium</item_name>
+    <price>36</price>
+  </item>
+  <item>
+    <item_type_id>624</item_type_id>
+    <item_name>Ramp</item_name>
+    <price>223</price>
+  </item>
+  <item>
+    <item_type_id>625</item_type_id>
+    <item_name>Gangway</item_name>
+    <price>282</price>
+  </item>
+  <item>
+    <item_type_id>626</item_type_id>
+    <item_name>Dock</item_name>
+    <price>390</price>
+  </item>
+  <item>
+    <item_type_id>627</item_type_id>
+    <item_name>Ramp</item_name>
+    <price>93</price>
+  </item>
+  <item>
+    <item_type_id>628</item_type_id>
+    <item_name>Rollers</item_name>
+    <price>30</price>
+  </item>
+  <item>
+    <item_type_id>629</item_type_id>
+    <item_name>Cart</item_name>
+    <price>468</price>
+  </item>
+  <item>
+    <item_type_id>630</item_type_id>
+    <item_name>Wheelbarrow</item_name>
+    <price>416</price>
+  </item>
+  <item>
+    <item_type_id>631</item_type_id>
+    <item_name>Jack</item_name>
+    <price>385</price>
+  </item>
+  <item>
+    <item_type_id>632</item_type_id>
+    <item_name>Jack stand</item_name>
+    <price>194</price>
+  </item>
+  <item>
+    <item_type_id>633</item_type_id>
+    <item_name>Supports</item_name>
+    <price>214</price>
+  </item>
+  <item>
+    <item_type_id>634</item_type_id>
+    <item_name>Brackets</item_name>
+    <price>278</price>
+  </item>
+  <item>
+    <item_type_id>635</item_type_id>
+    <item_name>Staples</item_name>
+    <price>222</price>
+  </item>
+  <item>
+    <item_type_id>636</item_type_id>
+    <item_name>Clamps</item_name>
+    <price>123</price>
+  </item>
+  <item>
+    <item_type_id>637</item_type_id>
+    <item_name>Clamps</item_name>
+    <price>261</price>
+  </item>
+  <item>
+    <item_type_id>638</item_type_id>
+    <item_name>Vise</item_name>
+    <price>289</price>
+  </item>
+  <item>
+    <item_type_id>639</item_type_id>
+    <item_name>Workbench</item_name>
+    <price>10</price>
+  </item>
+  <item>
+    <item_type_id>640</item_type_id>
+    <item_name>Machine tool</item_name>
+    <price>498</price>
+  </item>
+  <item>
+    <item_type_id>641</item_type_id>
+    <item_name>Screwdriver (electric)</item_name>
+    <price>407</price>
+  </item>
+  <item>
+    <item_type_id>642</item_type_id>
+    <item_name>Rotary hammer</item_name>
+    <price>66</price>
+  </item>
+  <item>
+    <item_type_id>643</item_type_id>
+    <item_name>Demolition hammer</item_name>
+    <price>205</price>
+  </item>
+  <item>
+    <item_type_id>644</item_type_id>
+    <item_name>Angle grinder</item_name>
+    <price>341</price>
+  </item>
+  <item>
+    <item_type_id>645</item_type_id>
+    <item_name>Router</item_name>
+    <price>74</price>
+  </item>
+  <item>
+    <item_type_id>646</item_type_id>
+    <item_name>Electric planer</item_name>
+    <price>41</price>
+  </item>
+  <item>
+    <item_type_id>647</item_type_id>
+    <item_name>Circular saw</item_name>
+    <price>408</price>
+  </item>
+  <item>
+    <item_type_id>648</item_type_id>
+    <item_name>Miter saw</item_name>
+    <price>337</price>
+  </item>
+  <item>
+    <item_type_id>649</item_type_id>
+    <item_name>Reciprocating saw</item_name>
+    <price>149</price>
+  </item>
+  <item>
+    <item_type_id>650</item_type_id>
+    <item_name>Nail gun</item_name>
+    <price>155</price>
+  </item>
+  <item>
+    <item_type_id>651</item_type_id>
+    <item_name>Staple gun</item_name>
+    <price>253</price>
+  </item>
+  <item>
+    <item_type_id>652</item_type_id>
+    <item_name>Caulking gun</item_name>
+    <price>346</price>
+  </item>
+  <item>
+    <item_type_id>653</item_type_id>
+    <item_name>Paint sprayer</item_name>
+    <price>235</price>
+  </item>
+  <item>
+    <item_type_id>654</item_type_id>
+    <item_name>Shop vacuum</item_name>
+    <price>15</price>
+  </item>
+  <item>
+    <item_type_id>655</item_type_id>
+    <item_name>Industrial vacuum</item_name>
+    <price>392</price>
+  </item>
+  <item>
+    <item_type_id>656</item_type_id>
+    <item_name>Blower</item_name>
+    <price>58</price>
+  </item>
+  <item>
+    <item_type_id>657</item_type_id>
+    <item_name>Pressure washer</item_name>
+    <price>21</price>
+  </item>
+  <item>
+    <item_type_id>658</item_type_id>
+    <item_name>Steam cleaner</item_name>
+    <price>100</price>
+  </item>
+  <item>
+    <item_type_id>659</item_type_id>
+    <item_name>Generator</item_name>
+    <price>31</price>
+  </item>
+  <item>
+    <item_type_id>660</item_type_id>
+    <item_name>Compressor</item_name>
+    <price>313</price>
+  </item>
+  <item>
+    <item_type_id>661</item_type_id>
+    <item_name>Welder</item_name>
+    <price>460</price>
+  </item>
+  <item>
+    <item_type_id>662</item_type_id>
+    <item_name>Blowtorch</item_name>
+    <price>185</price>
+  </item>
+  <item>
+    <item_type_id>663</item_type_id>
+    <item_name>Heat gun</item_name>
+    <price>425</price>
+  </item>
+  <item>
+    <item_type_id>664</item_type_id>
+    <item_name>Infrared heater</item_name>
+    <price>372</price>
+  </item>
+  <item>
+    <item_type_id>665</item_type_id>
+    <item_name>Fan</item_name>
+    <price>22</price>
+  </item>
+  <item>
+    <item_type_id>666</item_type_id>
+    <item_name>Air conditioner</item_name>
+    <price>67</price>
+  </item>
+  <item>
+    <item_type_id>667</item_type_id>
+    <item_name>Dehumidifier</item_name>
+    <price>199</price>
+  </item>
+  <item>
+    <item_type_id>668</item_type_id>
+    <item_name>Humidifier</item_name>
+    <price>64</price>
+  </item>
+  <item>
+    <item_type_id>669</item_type_id>
+    <item_name>Air purifier</item_name>
+    <price>129</price>
+  </item>
+  <item>
+    <item_type_id>670</item_type_id>
+    <item_name>Ionizer</item_name>
+    <price>104</price>
+  </item>
+  <item>
+    <item_type_id>671</item_type_id>
+    <item_name>Aroma lamp</item_name>
+    <price>127</price>
+  </item>
+  <item>
+    <item_type_id>672</item_type_id>
+    <item_name>UV lamp</item_name>
+    <price>433</price>
+  </item>
+  <item>
+    <item_type_id>673</item_type_id>
+    <item_name>Germicidal lamp</item_name>
+    <price>451</price>
+  </item>
+  <item>
+    <item_type_id>674</item_type_id>
+    <item_name>Salt lamp</item_name>
+    <price>434</price>
+  </item>
+  <item>
+    <item_type_id>675</item_type_id>
+    <item_name>Nail drying lamp</item_name>
+    <price>56</price>
+  </item>
+  <item>
+    <item_type_id>676</item_type_id>
+    <item_name>Manicure set</item_name>
+    <price>137</price>
+  </item>
+  <item>
+    <item_type_id>677</item_type_id>
+    <item_name>Pedicure set</item_name>
+    <price>331</price>
+  </item>
+  <item>
+    <item_type_id>678</item_type_id>
+    <item_name>Nail file</item_name>
+    <price>360</price>
+  </item>
+  <item>
+    <item_type_id>679</item_type_id>
+    <item_name>Tweezers</item_name>
+    <price>159</price>
+  </item>
+  <item>
+    <item_type_id>680</item_type_id>
+    <item_name>Nail scissors</item_name>
+    <price>70</price>
+  </item>
+  <item>
+    <item_type_id>681</item_type_id>
+    <item_name>Cuticle pusher</item_name>
+    <price>282</price>
+  </item>
+  <item>
+    <item_type_id>682</item_type_id>
+    <item_name>Orange stick</item_name>
+    <price>358</price>
+  </item>
+  <item>
+    <item_type_id>683</item_type_id>
+    <item_name>Manicure brushes</item_name>
+    <price>260</price>
+  </item>
+  <item>
+    <item_type_id>684</item_type_id>
+    <item_name>Nail files</item_name>
+    <price>427</price>
+  </item>
+  <item>
+    <item_type_id>685</item_type_id>
+    <item_name>Buffers</item_name>
+    <price>491</price>
+  </item>
+  <item>
+    <item_type_id>686</item_type_id>
+    <item_name>Nail drills</item_name>
+    <price>319</price>
+  </item>
+  <item>
+    <item_type_id>687</item_type_id>
+    <item_name>Manicure drill</item_name>
+    <price>121</price>
+  </item>
+  <item>
+    <item_type_id>688</item_type_id>
+    <item_name>Burs</item_name>
+    <price>150</price>
+  </item>
+  <item>
+    <item_type_id>689</item_type_id>
+    <item_name>Attachments</item_name>
+    <price>312</price>
+  </item>
+  <item>
+    <item_type_id>690</item_type_id>
+    <item_name>Nail dust collector</item_name>
+    <price>300</price>
+  </item>
+  <item>
+    <item_type_id>691</item_type_id>
+    <item_name>Gel polish lamp</item_name>
+    <price>360</price>
+  </item>
+  <item>
+    <item_type_id>692</item_type_id>
+    <item_name>LED lamp</item_name>
+    <price>446</price>
+  </item>
+  <item>
+    <item_type_id>693</item_type_id>
+    <item_name>Gel polish brushes</item_name>
+    <price>212</price>
+  </item>
+  <item>
+    <item_type_id>694</item_type_id>
+    <item_name>Top coat</item_name>
+    <price>56</price>
+  </item>
+  <item>
+    <item_type_id>695</item_type_id>
+    <item_name>Base coat</item_name>
+    <price>473</price>
+  </item>
+  <item>
+    <item_type_id>696</item_type_id>
+    <item_name>Color polishes</item_name>
+    <price>379</price>
+  </item>
+  <item>
+    <item_type_id>697</item_type_id>
+    <item_name>Gels</item_name>
+    <price>424</price>
+  </item>
+  <item>
+    <item_type_id>698</item_type_id>
+    <item_name>Acrylics</item_name>
+    <price>318</price>
+  </item>
+  <item>
+    <item_type_id>699</item_type_id>
+    <item_name>Powders</item_name>
+    <price>185</price>
+  </item>
+  <item>
+    <item_type_id>700</item_type_id>
+    <item_name>Stamping</item_name>
+    <price>385</price>
+  </item>
+  <item>
+    <item_type_id>701</item_type_id>
+    <item_name>Slider design</item_name>
+    <price>485</price>
+  </item>
+  <item>
+    <item_type_id>702</item_type_id>
+    <item_name>Nail stickers</item_name>
+    <price>475</price>
+  </item>
+  <item>
+    <item_type_id>703</item_type_id>
+    <item_name>Rhinestones</item_name>
+    <price>194</price>
+  </item>
+  <item>
+    <item_type_id>704</item_type_id>
+    <item_name>Glitter</item_name>
+    <price>456</price>
+  </item>
+  <item>
+    <item_type_id>705</item_type_id>
+    <item_name>Foil</item_name>
+    <price>314</price>
+  </item>
+  <item>
+    <item_type_id>706</item_type_id>
+    <item_name>Pigment powder</item_name>
+    <price>106</price>
+  </item>
+  <item>
+    <item_type_id>707</item_type_id>
+    <item_name>Camouflage</item_name>
+    <price>112</price>
+  </item>
+  <item>
+    <item_type_id>708</item_type_id>
+    <item_name>Art brushes</item_name>
+    <price>139</price>
+  </item>
+  <item>
+    <item_type_id>709</item_type_id>
+    <item_name>Dotting tool</item_name>
+    <price>474</price>
+  </item>
+  <item>
+    <item_type_id>710</item_type_id>
+    <item_name>Tapes</item_name>
+    <price>415</price>
+  </item>
+  <item>
+    <item_type_id>711</item_type_id>
+    <item_name>Lace</item_name>
+    <price>422</price>
+  </item>
+  <item>
+    <item_type_id>712</item_type_id>
+    <item_name>Fabrics</item_name>
+    <price>100</price>
+  </item>
+  <item>
+    <item_type_id>713</item_type_id>
+    <item_name>Needles</item_name>
+    <price>375</price>
+  </item>
+  <item>
+    <item_type_id>714</item_type_id>
+    <item_name>Thimbles</item_name>
+    <price>412</price>
+  </item>
+  <item>
+    <item_type_id>715</item_type_id>
+    <item_name>Pins</item_name>
+    <price>26</price>
+  </item>
+  <item>
+    <item_type_id>716</item_type_id>
+    <item_name>Dress forms</item_name>
+    <price>28</price>
+  </item>
+  <item>
+    <item_type_id>717</item_type_id>
+    <item_name>Patterns</item_name>
+    <price>377</price>
+  </item>
+  <item>
+    <item_type_id>718</item_type_id>
+    <item_name>Tailor's chalk</item_name>
+    <price>462</price>
+  </item>
+  <item>
+    <item_type_id>719</item_type_id>
+    <item_name>Tape measure</item_name>
+    <price>115</price>
+  </item>
+  <item>
+    <item_type_id>720</item_type_id>
+    <item_name>Pegs</item_name>
+    <price>80</price>
+  </item>
+  <item>
+    <item_type_id>721</item_type_id>
+    <item_name>Seam ripper</item_name>
+    <price>115</price>
+  </item>
+  <item>
+    <item_type_id>722</item_type_id>
+    <item_name>Dressmaker's shears</item_name>
+    <price>110</price>
+  </item>
+  <item>
+    <item_type_id>723</item_type_id>
+    <item_name>Pinking shears</item_name>
+    <price>414</price>
+  </item>
+  <item>
+    <item_type_id>724</item_type_id>
+    <item_name>Zippers</item_name>
+    <price>284</price>
+  </item>
+  <item>
+    <item_type_id>725</item_type_id>
+    <item_name>Hook and loop</item_name>
+    <price>95</price>
+  </item>
+  <item>
+    <item_type_id>726</item_type_id>
+    <item_name>Buckles</item_name>
+    <price>423</price>
+  </item>
+  <item>
+    <item_type_id>727</item_type_id>
+    <item_name>Grommets</item_name>
+    <price>213</price>
+  </item>
+  <item>
+    <item_type_id>728</item_type_id>
+    <item_name>Shoelaces</item_name>
+    <price>295</price>
+  </item>
+  <item>
+    <item_type_id>729</item_type_id>
+    <item_name>Bias tape</item_name>
+    <price>172</price>
+  </item>
+  <item>
+    <item_type_id>730</item_type_id>
+    <item_name>Lace</item_name>
+    <price>225</price>
+  </item>
+  <item>
+    <item_type_id>731</item_type_id>
+    <item_name>Bias binding</item_name>
+    <price>92</price>
+  </item>
+  <item>
+    <item_type_id>732</item_type_id>
+    <item_name>Bias binding</item_name>
+    <price>462</price>
+  </item>
+  <item>
+    <item_type_id>733</item_type_id>
+    <item_name>Elastic</item_name>
+    <price>412</price>
+  </item>
+  <item>
+    <item_type_id>734</item_type_id>
+    <item_name>Ribbon</item_name>
+    <price>194</price>
+  </item>
+  <item>
+    <item_type_id>735</item_type_id>
+    <item_name>Cord</item_name>
+    <price>425</price>
+  </item>
+  <item>
+    <item_type_id>736</item_type_id>
+    <item_name>Rope</item_name>
+    <price>114</price>
+  </item>
+  <item>
+    <item_type_id>737</item_type_id>
+    <item_name>Thread</item_name>
+    <price>104</price>
+  </item>
+  <item>
+    <item_type_id>738</item_type_id>
+    <item_name>Cord</item_name>
+    <price>100</price>
+  </item>
+  <item>
+    <item_type_id>739</item_type_id>
+    <item_name>Mesh</item_name>
+    <price>50</price>
+  </item>
+  <item>
+    <item_type_id>740</item_type_id>
+    <item_name>Tulle</item_name>
+    <price>112</price>
+  </item>
+  <item>
+    <item_type_id>741</item_type_id>
+    <item_name>Organza</item_name>
+    <price>92</price>
+  </item>
+  <item>
+    <item_type_id>742</item_type_id>
+    <item_name>Chiffon</item_name>
+    <price>459</price>
+  </item>
+  <item>
+    <item_type_id>743</item_type_id>
+    <item_name>Velvet</item_name>
+    <price>243</price>
+  </item>
+  <item>
+    <item_type_id>744</item_type_id>
+    <item_name>Velour</item_name>
+    <price>451</price>
+  </item>
+  <item>
+    <item_type_id>745</item_type_id>
+    <item_name>Plush</item_name>
+    <price>453</price>
+  </item>
+  <item>
+    <item_type_id>746</item_type_id>
+    <item_name>Faux fur</item_name>
+    <price>460</price>
+  </item>
+  <item>
+    <item_type_id>747</item_type_id>
+    <item_name>Natural fur</item_name>
+    <price>82</price>
+  </item>
+  <item>
+    <item_type_id>748</item_type_id>
+    <item_name>Leather</item_name>
+    <price>380</price>
+  </item>
+  <item>
+    <item_type_id>749</item_type_id>
+    <item_name>Suede</item_name>
+    <price>113</price>
+  </item>
+  <item>
+    <item_type_id>750</item_type_id>
+    <item_name>Nubuck</item_name>
+    <price>285</price>
+  </item>
+  <item>
+    <item_type_id>751</item_type_id>
+    <item_name>Faux leather</item_name>
+    <price>286</price>
+  </item>
+  <item>
+    <item_type_id>752</item_type_id>
+    <item_name>Vinyl</item_name>
+    <price>110</price>
+  </item>
+  <item>
+    <item_type_id>753</item_type_id>
+    <item_name>Rubber</item_name>
+    <price>426</price>
+  </item>
+  <item>
+    <item_type_id>754</item_type_id>
+    <item_name>Silicone</item_name>
+    <price>266</price>
+  </item>
+  <item>
+    <item_type_id>755</item_type_id>
+    <item_name>Plastic</item_name>
+    <price>179</price>
+  </item>
+  <item>
+    <item_type_id>756</item_type_id>
+    <item_name>Metal</item_name>
+    <price>164</price>
+  </item>
+  <item>
+    <item_type_id>757</item_type_id>
+    <item_name>Wood</item_name>
+    <price>188</price>
+  </item>
+  <item>
+    <item_type_id>758</item_type_id>
+    <item_name>Glass</item_name>
+    <price>260</price>
+  </item>
+  <item>
+    <item_type_id>759</item_type_id>
+    <item_name>Ceramics</item_name>
+    <price>454</price>
+  </item>
+  <item>
+    <item_type_id>760</item_type_id>
+    <item_name>Stone</item_name>
+    <price>146</price>
+  </item>
+  <item>
+    <item_type_id>761</item_type_id>
+    <item_name>Concrete</item_name>
+    <price>380</price>
+  </item>
+  <item>
+    <item_type_id>762</item_type_id>
+    <item_name>Plaster</item_name>
+    <price>473</price>
+  </item>
+  <item>
+    <item_type_id>763</item_type_id>
+    <item_name>Plaster</item_name>
+    <price>219</price>
+  </item>
+  <item>
+    <item_type_id>764</item_type_id>
+    <item_name>Filler</item_name>
+    <price>315</price>
+  </item>
+  <item>
+    <item_type_id>765</item_type_id>
+    <item_name>Wood stain</item_name>
+    <price>192</price>
+  </item>
+  <item>
+    <item_type_id>766</item_type_id>
+    <item_name>Wax</item_name>
+    <price>105</price>
+  </item>
+  <item>
+    <item_type_id>767</item_type_id>
+    <item_name>Oil</item_name>
+    <price>470</price>
+  </item>
+  <item>
+    <item_type_id>768</item_type_id>
+    <item_name>Polish</item_name>
+    <price>330</price>
+  </item>
+  <item>
+    <item_type_id>769</item_type_id>
+    <item_name>Abrasive</item_name>
+    <price>363</price>
+  </item>
+  <item>
+    <item_type_id>770</item_type_id>
+    <item_name>Paste</item_name>
+    <price>278</price>
+  </item>
+  <item>
+    <item_type_id>771</item_type_id>
+    <item_name>Gel</item_name>
+    <price>195</price>
+  </item>
+  <item>
+    <item_type_id>772</item_type_id>
+    <item_name>Cream</item_name>
+    <price>92</price>
+  </item>
+  <item>
+    <item_type_id>773</item_type_id>
+    <item_name>Ointment</item_name>
+    <price>204</price>
+  </item>
+  <item>
+    <item_type_id>774</item_type_id>
+    <item_name>Liquid</item_name>
+    <price>10</price>
+  </item>
+  <item>
+    <item_type_id>775</item_type_id>
+    <item_name>Spray</item_name>
+    <price>398</price>
+  </item>
+  <item>
+    <item_type_id>776</item_type_id>
+    <item_name>Aerosol</item_name>
+    <price>485</price>
+  </item>
+  <item>
+    <item_type_id>777</item_type_id>
+    <item_name>Powder</item_name>
+    <price>238</price>
+  </item>
+  <item>
+    <item_type_id>778</item_type_id>
+    <item_name>Granules</item_name>
+    <price>392</price>
+  </item>
+  <item>
+    <item_type_id>779</item_type_id>
+    <item_name>Tablets</item_name>
+    <price>18</price>
+  </item>
+  <item>
+    <item_type_id>780</item_type_id>
+    <item_name>Capsules</item_name>
+    <price>107</price>
+  </item>
+  <item>
+    <item_type_id>781</item_type_id>
+    <item_name>Drops</item_name>
+    <price>400</price>
+  </item>
+  <item>
+    <item_type_id>782</item_type_id>
+    <item_name>Syrup</item_name>
+    <price>330</price>
+  </item>
+  <item>
+    <item_type_id>783</item_type_id>
+    <item_name>Tincture</item_name>
+    <price>322</price>
+  </item>
+  <item>
+    <item_type_id>784</item_type_id>
+    <item_name>Extract</item_name>
+    <price>469</price>
+  </item>
+  <item>
+    <item_type_id>785</item_type_id>
+    <item_name>Decoction</item_name>
+    <price>109</price>
+  </item>
+  <item>
+    <item_type_id>786</item_type_id>
+    <item_name>Infusion</item_name>
+    <price>301</price>
+  </item>
+  <item>
+    <item_type_id>787</item_type_id>
+    <item_name>Tea</item_name>
+    <price>315</price>
+  </item>
+  <item>
+    <item_type_id>788</item_type_id>
+    <item_name>Coffee</item_name>
+    <price>371</price>
+  </item>
+  <item>
+    <item_type_id>789</item_type_id>
+    <item_name>Cocoa</item_name>
+    <price>354</price>
+  </item>
+  <item>
+    <item_type_id>790</item_type_id>
+    <item_name>Juice</item_name>
+    <price>241</price>
+  </item>
+  <item>
+    <item_type_id>791</item_type_id>
+    <item_name>Nectar</item_name>
+    <price>333</price>
+  </item>
+  <item>
+    <item_type_id>792</item_type_id>
+    <item_name>Fruit drink</item_name>
+    <price>411</price>
+  </item>
+  <item>
+    <item_type_id>793</item_type_id>
+    <item_name>Compote</item_name>
+    <price>206</price>
+  </item>
+  <item>
+    <item_type_id>794</item_type_id>
+    <item_name>Kissel</item_name>
+    <price>202</price>
+  </item>
+  <item>
+    <item_type_id>795</item_type_id>
+    <item_name>Lemonade</item_name>
+    <price>138</price>
+  </item>
+  <item>
+    <item_type_id>796</item_type_id>
+    <item_name>Soda</item_name>
+    <price>350</price>
+  </item>
+  <item>
+    <item_type_id>797</item_type_id>
+    <item_name>Mineral water</item_name>
+    <price>232</price>
+  </item>
+  <item>
+    <item_type_id>798</item_type_id>
+    <item_name>Soda water</item_name>
+    <price>49</price>
+  </item>
+  <item>
+    <item_type_id>799</item_type_id>
+    <item_name>Tonic</item_name>
+    <price>74</price>
+  </item>
+  <item>
+    <item_type_id>800</item_type_id>
+    <item_name>Energy drink</item_name>
+    <price>352</price>
+  </item>
+  <item>
+    <item_type_id>801</item_type_id>
+    <item_name>Sports drink</item_name>
+    <price>480</price>
+  </item>
+  <item>
+    <item_type_id>802</item_type_id>
+    <item_name>Isotonic drink</item_name>
+    <price>92</price>
+  </item>
+  <item>
+    <item_type_id>803</item_type_id>
+    <item_name>Protein</item_name>
+    <price>342</price>
+  </item>
+  <item>
+    <item_type_id>804</item_type_id>
+    <item_name>Weight gainer</item_name>
+    <price>93</price>
+  </item>
+  <item>
+    <item_type_id>805</item_type_id>
+    <item_name>Amino acids</item_name>
+    <price>22</price>
+  </item>
+  <item>
+    <item_type_id>806</item_type_id>
+    <item_name>Creatine</item_name>
+    <price>378</price>
+  </item>
+  <item>
+    <item_type_id>807</item_type_id>
+    <item_name>Vitamins</item_name>
+    <price>264</price>
+  </item>
+  <item>
+    <item_type_id>808</item_type_id>
+    <item_name>Minerals</item_name>
+    <price>439</price>
+  </item>
+  <item>
+    <item_type_id>809</item_type_id>
+    <item_name>Omega-3</item_name>
+    <price>360</price>
+  </item>
+  <item>
+    <item_type_id>810</item_type_id>
+    <item_name>Collagen</item_name>
+    <price>400</price>
+  </item>
+  <item>
+    <item_type_id>811</item_type_id>
+    <item_name>Probiotics</item_name>
+    <price>54</price>
+  </item>
+  <item>
+    <item_type_id>812</item_type_id>
+    <item_name>Prebiotics</item_name>
+    <price>103</price>
+  </item>
+  <item>
+    <item_type_id>813</item_type_id>
+    <item_name>Fiber</item_name>
+    <price>85</price>
+  </item>
+  <item>
+    <item_type_id>814</item_type_id>
+    <item_name>Bran</item_name>
+    <price>120</price>
+  </item>
+  <item>
+    <item_type_id>815</item_type_id>
+    <item_name>Muesli</item_name>
+    <price>254</price>
+  </item>
+  <item>
+    <item_type_id>816</item_type_id>
+    <item_name>Granola</item_name>
+    <price>411</price>
+  </item>
+  <item>
+    <item_type_id>817</item_type_id>
+    <item_name>Cereal flakes</item_name>
+    <price>173</price>
+  </item>
+  <item>
+    <item_type_id>818</item_type_id>
+    <item_name>Grain</item_name>
+    <price>297</price>
+  </item>
+  <item>
+    <item_type_id>819</item_type_id>
+    <item_name>Groats</item_name>
+    <price>498</price>
+  </item>
+  <item>
+    <item_type_id>820</item_type_id>
+    <item_name>Flour</item_name>
+    <price>29</price>
+  </item>
+  <item>
+    <item_type_id>821</item_type_id>
+    <item_name>Sugar</item_name>
+    <price>362</price>
+  </item>
+  <item>
+    <item_type_id>822</item_type_id>
+    <item_name>Salt</item_name>
+    <price>125</price>
+  </item>
+  <item>
+    <item_type_id>823</item_type_id>
+    <item_name>Spices</item_name>
+    <price>369</price>
+  </item>
+  <item>
+    <item_type_id>824</item_type_id>
+    <item_name>Spices</item_name>
+    <price>349</price>
+  </item>
+  <item>
+    <item_type_id>825</item_type_id>
+    <item_name>Herbs</item_name>
+    <price>40</price>
+  </item>
+  <item>
+    <item_type_id>826</item_type_id>
+    <item_name>Sauces</item_name>
+    <price>70</price>
+  </item>
+  <item>
+    <item_type_id>827</item_type_id>
+    <item_name>Ketchup</item_name>
+    <price>151</price>
+  </item>
+  <item>
+    <item_type_id>828</item_type_id>
+    <item_name>Mayonnaise</item_name>
+    <price>232</price>
+  </item>
+  <item>
+    <item_type_id>829</item_type_id>
+    <item_name>Mustard</item_name>
+    <price>447</price>
+  </item>
+  <item>
+    <item_type_id>830</item_type_id>
+    <item_name>Horseradish</item_name>
+    <price>51</price>
+  </item>
+  <item>
+    <item_type_id>831</item_type_id>
+    <item_name>Adjika</item_name>
+    <price>476</price>
+  </item>
+  <item>
+    <item_type_id>832</item_type_id>
+    <item_name>Soy sauce</item_name>
+    <price>158</price>
+  </item>
+  <item>
+    <item_type_id>833</item_type_id>
+    <item_name>Fish sauce</item_name>
+    <price>368</price>
+  </item>
+  <item>
+    <item_type_id>834</item_type_id>
+    <item_name>Oyster sauce</item_name>
+    <price>150</price>
+  </item>
+  <item>
+    <item_type_id>835</item_type_id>
+    <item_name>Vinegar</item_name>
+    <price>253</price>
+  </item>
+  <item>
+    <item_type_id>836</item_type_id>
+    <item_name>Vegetable oil</item_name>
+    <price>281</price>
+  </item>
+  <item>
+    <item_type_id>837</item_type_id>
+    <item_name>Olive oil</item_name>
+    <price>364</price>
+  </item>
+  <item>
+    <item_type_id>838</item_type_id>
+    <item_name>Butter</item_name>
+    <price>186</price>
+  </item>
+  <item>
+    <item_type_id>839</item_type_id>
+    <item_name>Margarine</item_name>
+    <price>195</price>
+  </item>
+  <item>
+    <item_type_id>840</item_type_id>
+    <item_name>Alcohol</item_name>
+    <price>19</price>
+  </item>
+  <item>
+    <item_type_id>841</item_type_id>
+    <item_name>Vodka</item_name>
+    <price>11</price>
+  </item>
+  <item>
+    <item_type_id>842</item_type_id>
+    <item_name>Cognac</item_name>
+    <price>258</price>
+  </item>
+  <item>
+    <item_type_id>843</item_type_id>
+    <item_name>Whiskey</item_name>
+    <price>246</price>
+  </item>
+  <item>
+    <item_type_id>844</item_type_id>
+    <item_name>Rum</item_name>
+    <price>120</price>
+  </item>
+  <item>
+    <item_type_id>845</item_type_id>
+    <item_name>Gin</item_name>
+    <price>420</price>
+  </item>
+  <item>
+    <item_type_id>846</item_type_id>
+    <item_name>Tequila</item_name>
+    <price>313</price>
+  </item>
+  <item>
+    <item_type_id>847</item_type_id>
+    <item_name>Liqueur</item_name>
+    <price>173</price>
+  </item>
+  <item>
+    <item_type_id>848</item_type_id>
+    <item_name>Wine</item_name>
+    <price>106</price>
+  </item>
+  <item>
+    <item_type_id>849</item_type_id>
+    <item_name>Beer</item_name>
+    <price>478</price>
+  </item>
+  <item>
+    <item_type_id>850</item_type_id>
+    <item_name>Cider</item_name>
+    <price>117</price>
+  </item>
+  <item>
+    <item_type_id>851</item_type_id>
+    <item_name>Mead</item_name>
+    <price>50</price>
+  </item>
+  <item>
+    <item_type_id>852</item_type_id>
+    <item_name>Balm</item_name>
+    <price>422</price>
+  </item>
+  <item>
+    <item_type_id>853</item_type_id>
+    <item_name>Chocolate</item_name>
+    <price>230</price>
+  </item>
+  <item>
+    <item_type_id>854</item_type_id>
+    <item_name>Candy</item_name>
+    <price>140</price>
+  </item>
+  <item>
+    <item_type_id>855</item_type_id>
+    <item_name>Cookies</item_name>
+    <price>147</price>
+  </item>
+  <item>
+    <item_type_id>856</item_type_id>
+    <item_name>Pastry</item_name>
+    <price>13</price>
+  </item>
+  <item>
+    <item_type_id>857</item_type_id>
+    <item_name>Cake</item_name>
+    <price>83</price>
+  </item>
+  <item>
+    <item_type_id>858</item_type_id>
+    <item_name>Ice cream</item_name>
+    <price>235</price>
+  </item>
+  <item>
+    <item_type_id>859</item_type_id>
+    <item_name>Yogurt</item_name>
+    <price>354</price>
+  </item>
+  <item>
+    <item_type_id>860</item_type_id>
+    <item_name>Kefir</item_name>
+    <price>354</price>
+  </item>
+  <item>
+    <item_type_id>861</item_type_id>
+    <item_name>Cottage cheese</item_name>
+    <price>382</price>
+  </item>
+  <item>
+    <item_type_id>862</item_type_id>
+    <item_name>Cheese</item_name>
+    <price>320</price>
+  </item>
+  <item>
+    <item_type_id>863</item_type_id>
+    <item_name>Sausage</item_name>
+    <price>458</price>
+  </item>
+  <item>
+    <item_type_id>864</item_type_id>
+    <item_name>Ham</item_name>
+    <price>111</price>
+  </item>
+  <item>
+    <item_type_id>865</item_type_id>
+    <item_name>Bacon</item_name>
+    <price>191</price>
+  </item>
+  <item>
+    <item_type_id>866</item_type_id>
+    <item_name>Lard</item_name>
+    <price>255</price>
+  </item>
+  <item>
+    <item_type_id>867</item_type_id>
+    <item_name>Fish</item_name>
+    <price>322</price>
+  </item>
+  <item>
+    <item_type_id>868</item_type_id>
+    <item_name>Caviar</item_name>
+    <price>298</price>
+  </item>
+  <item>
+    <item_type_id>869</item_type_id>
+    <item_name>Seafood</item_name>
+    <price>209</price>
+  </item>
+  <item>
+    <item_type_id>870</item_type_id>
+    <item_name>Meat</item_name>
+    <price>260</price>
+  </item>
+  <item>
+    <item_type_id>871</item_type_id>
+    <item_name>Tactical helmet 2</item_name>
+    <price>303</price>
+  </item>
+  <item>
+    <item_type_id>872</item_type_id>
+    <item_name>Balaclava 2</item_name>
+    <price>56</price>
+  </item>
+  <item>
+    <item_type_id>873</item_type_id>
+    <item_name>Bicycle helmet 2</item_name>
+    <price>368</price>
+  </item>
+  <item>
+    <item_type_id>874</item_type_id>
+    <item_name>Baseball cap 2</item_name>
+    <price>348</price>
+  </item>
+  <item>
+    <item_type_id>875</item_type_id>
+    <item_name>Panama hat 2</item_name>
+    <price>154</price>
+  </item>
+  <item>
+    <item_type_id>876</item_type_id>
+    <item_name>Bandana 2</item_name>
+    <price>355</price>
+  </item>
+  <item>
+    <item_type_id>877</item_type_id>
+    <item_name>Knit hat 2</item_name>
+    <price>15</price>
+  </item>
+  <item>
+    <item_type_id>878</item_type_id>
+    <item_name>Fur ushanka 2</item_name>
+    <price>359</price>
+  </item>
+  <item>
+    <item_type_id>879</item_type_id>
+    <item_name>Climbing helmet 2</item_name>
+    <price>198</price>
+  </item>
+  <item>
+    <item_type_id>880</item_type_id>
+    <item_name>Safety goggles 2</item_name>
+    <price>159</price>
+  </item>
+  <item>
+    <item_type_id>881</item_type_id>
+    <item_name>Night vision goggles 2</item_name>
+    <price>416</price>
+  </item>
+  <item>
+    <item_type_id>882</item_type_id>
+    <item_name>Tactical goggles 2</item_name>
+    <price>283</price>
+  </item>
+  <item>
+    <item_type_id>883</item_type_id>
+    <item_name>Swimming goggles 2</item_name>
+    <price>310</price>
+  </item>
+  <item>
+    <item_type_id>884</item_type_id>
+    <item_name>Snorkeling mask 2</item_name>
+    <price>440</price>
+  </item>
+  <item>
+    <item_type_id>885</item_type_id>
+    <item_name>Ski mask 2</item_name>
+    <price>398</price>
+  </item>
+  <item>
+    <item_type_id>886</item_type_id>
+    <item_name>Balaclava (under-helmet) 2</item_name>
+    <price>500</price>
+  </item>
+  <item>
+    <item_type_id>887</item_type_id>
+    <item_name>Headband 2</item_name>
+    <price>175</price>
+  </item>
+  <item>
+    <item_type_id>888</item_type_id>
+    <item_name>Safari hat 2</item_name>
+    <price>272</price>
+  </item>
+  <item>
+    <item_type_id>889</item_type_id>
+    <item_name>Cowboy hat 2</item_name>
+    <price>223</price>
+  </item>
+  <item>
+    <item_type_id>890</item_type_id>
+    <item_name>Cyclist cap (aerodynamic cap) 2</item_name>
+    <price>302</price>
+  </item>
+  <item>
+    <item_type_id>891</item_type_id>
+    <item_name>Windbreaker jacket 2</item_name>
+    <price>421</price>
+  </item>
+  <item>
+    <item_type_id>892</item_type_id>
+    <item_name>Winter parka 2</item_name>
+    <price>384</price>
+  </item>
+  <item>
+    <item_type_id>893</item_type_id>
+    <item_name>Rain poncho 2</item_name>
+    <price>220</price>
+  </item>
+  <item>
+    <item_type_id>894</item_type_id>
+    <item_name>Tactical vest 2</item_name>
+    <price>330</price>
+  </item>
+  <item>
+    <item_type_id>895</item_type_id>
+    <item_name>Insulated vest 2</item_name>
+    <price>247</price>
+  </item>
+  <item>
+    <item_type_id>896</item_type_id>
+    <item_name>Softshell jacket 2</item_name>
+    <price>298</price>
+  </item>
+  <item>
+    <item_type_id>897</item_type_id>
+    <item_name>Hardshell jacket 2</item_name>
+    <price>473</price>
+  </item>
+  <item>
+    <item_type_id>898</item_type_id>
+    <item_name>Membrane jacket 2</item_name>
+    <price>69</price>
+  </item>
+  <item>
+    <item_type_id>899</item_type_id>
+    <item_name>Fleece jacket 2</item_name>
+    <price>248</price>
+  </item>
+  <item>
+    <item_type_id>900</item_type_id>
+    <item_name>Wool sweater 2</item_name>
+    <price>174</price>
+  </item>
+  <item>
+    <item_type_id>901</item_type_id>
+    <item_name>Sweatshirt 2</item_name>
+    <price>468</price>
+  </item>
+  <item>
+    <item_type_id>902</item_type_id>
+    <item_name>Hoodie 2</item_name>
+    <price>108</price>
+  </item>
+  <item>
+    <item_type_id>903</item_type_id>
+    <item_name>Jumper 2</item_name>
+    <price>135</price>
+  </item>
+  <item>
+    <item_type_id>904</item_type_id>
+    <item_name>Hiking shirt 2</item_name>
+    <price>410</price>
+  </item>
+  <item>
+    <item_type_id>905</item_type_id>
+    <item_name>Performance T-shirt 2</item_name>
+    <price>119</price>
+  </item>
+  <item>
+    <item_type_id>906</item_type_id>
+    <item_name>Thermal undershirt 2</item_name>
+    <price>293</price>
+  </item>
+  <item>
+    <item_type_id>907</item_type_id>
+    <item_name>Thermal long johns 2</item_name>
+    <price>398</price>
+  </item>
+  <item>
+    <item_type_id>908</item_type_id>
+    <item_name>Life vest 2</item_name>
+    <price>53</price>
+  </item>
+  <item>
+    <item_type_id>909</item_type_id>
+    <item_name>Load-bearing vest 2</item_name>
+    <price>49</price>
+  </item>
+  <item>
+    <item_type_id>910</item_type_id>
+    <item_name>Rain cape 2</item_name>
+    <price>207</price>
+  </item>
+  <item>
+    <item_type_id>911</item_type_id>
+    <item_name>Bib 2</item_name>
+    <price>251</price>
+  </item>
+  <item>
+    <item_type_id>912</item_type_id>
+    <item_name>Tunic 2</item_name>
+    <price>498</price>
+  </item>
+  <item>
+    <item_type_id>913</item_type_id>
+    <item_name>Blazer 2</item_name>
+    <price>93</price>
+  </item>
+  <item>
+    <item_type_id>914</item_type_id>
+    <item_name>Pullover 2</item_name>
+    <price>477</price>
+  </item>
+  <item>
+    <item_type_id>915</item_type_id>
+    <item_name>Sleeveless top 2</item_name>
+    <price>132</price>
+  </item>
+  <item>
+    <item_type_id>916</item_type_id>
+    <item_name>Telogreika (padded jacket) 2</item_name>
+    <price>297</price>
+  </item>
+  <item>
+    <item_type_id>917</item_type_id>
+    <item_name>Anorak 2</item_name>
+    <price>218</price>
+  </item>
+  <item>
+    <item_type_id>918</item_type_id>
+    <item_name>Hooded windbreaker 2</item_name>
+    <price>285</price>
+  </item>
+  <item>
+    <item_type_id>919</item_type_id>
+    <item_name>Down jacket 2</item_name>
+    <price>414</price>
+  </item>
+  <item>
+    <item_type_id>920</item_type_id>
+    <item_name>Down vest 2</item_name>
+    <price>313</price>
+  </item>
+  <item>
+    <item_type_id>921</item_type_id>
+    <item_name>Storm jacket 2</item_name>
+    <price>356</price>
+  </item>
+  <item>
+    <item_type_id>922</item_type_id>
+    <item_name>Hiking pants 2</item_name>
+    <price>114</price>
+  </item>
+  <item>
+    <item_type_id>923</item_type_id>
+    <item_name>Tactical pants 2</item_name>
+    <price>269</price>
+  </item>
+  <item>
+    <item_type_id>924</item_type_id>
+    <item_name>Jeans 2</item_name>
+    <price>371</price>
+  </item>
+  <item>
+    <item_type_id>925</item_type_id>
+    <item_name>Insulated pants 2</item_name>
+    <price>384</price>
+  </item>
+  <item>
+    <item_type_id>926</item_type_id>
+    <item_name>Breeches 2</item_name>
+    <price>499</price>
+  </item>
+  <item>
+    <item_type_id>927</item_type_id>
+    <item_name>Tactical shorts 2</item_name>
+    <price>60</price>
+  </item>
+  <item>
+    <item_type_id>928</item_type_id>
+    <item_name>Sports shorts 2</item_name>
+    <price>165</price>
+  </item>
+  <item>
+    <item_type_id>929</item_type_id>
+    <item_name>Bermuda shorts 2</item_name>
+    <price>51</price>
+  </item>
+  <item>
+    <item_type_id>930</item_type_id>
+    <item_name>Shorts 2</item_name>
+    <price>180</price>
+  </item>
+  <item>
+    <item_type_id>931</item_type_id>
+    <item_name>Harem pants 2</item_name>
+    <price>27</price>
+  </item>
+  <item>
+    <item_type_id>932</item_type_id>
+    <item_name>Gaiters 2</item_name>
+    <price>344</price>
+  </item>
+  <item>
+    <item_type_id>933</item_type_id>
+    <item_name>Suspenders 2</item_name>
+    <price>93</price>
+  </item>
+  <item>
+    <item_type_id>934</item_type_id>
+    <item_name>Belt 2</item_name>
+    <price>499</price>
+  </item>
+  <item>
+    <item_type_id>935</item_type_id>
+    <item_name>Tactical belt 2</item_name>
+    <price>184</price>
+  </item>
+  <item>
+    <item_type_id>936</item_type_id>
+    <item_name>Belt loops 2</item_name>
+    <price>108</price>
+  </item>
+  <item>
+    <item_type_id>937</item_type_id>
+    <item_name>Tactical gloves 2</item_name>
+    <price>260</price>
+  </item>
+  <item>
+    <item_type_id>938</item_type_id>
+    <item_name>Insulated gloves 2</item_name>
+    <price>173</price>
+  </item>
+  <item>
+    <item_type_id>939</item_type_id>
+    <item_name>Shooting gloves 2</item_name>
+    <price>345</price>
+  </item>
+  <item>
+    <item_type_id>940</item_type_id>
+    <item_name>Gauntlets 2</item_name>
+    <price>311</price>
+  </item>
+  <item>
+    <item_type_id>941</item_type_id>
+    <item_name>Mittens 2</item_name>
+    <price>18</price>
+  </item>
+  <item>
+    <item_type_id>942</item_type_id>
+    <item_name>Fingerless gloves 2</item_name>
+    <price>32</price>
+  </item>
+  <item>
+    <item_type_id>943</item_type_id>
+    <item_name>Wristbands 2</item_name>
+    <price>343</price>
+  </item>
+  <item>
+    <item_type_id>944</item_type_id>
+    <item_name>Elbow pads 2</item_name>
+    <price>354</price>
+  </item>
+  <item>
+    <item_type_id>945</item_type_id>
+    <item_name>Paracord bracelet 2</item_name>
+    <price>203</price>
+  </item>
+  <item>
+    <item_type_id>946</item_type_id>
+    <item_name>Finger cot 2</item_name>
+    <price>428</price>
+  </item>
+  <item>
+    <item_type_id>947</item_type_id>
+    <item_name>Touchscreen gloves 2</item_name>
+    <price>408</price>
+  </item>
+  <item>
+    <item_type_id>948</item_type_id>
+    <item_name>Motorcycle gloves 2</item_name>
+    <price>433</price>
+  </item>
+  <item>
+    <item_type_id>949</item_type_id>
+    <item_name>Gardening gloves 2</item_name>
+    <price>175</price>
+  </item>
+  <item>
+    <item_type_id>950</item_type_id>
+    <item_name>Boxing gloves 2</item_name>
+    <price>124</price>
+  </item>
+  <item>
+    <item_type_id>951</item_type_id>
+    <item_name>Tactical boots 2</item_name>
+    <price>407</price>
+  </item>
+  <item>
+    <item_type_id>952</item_type_id>
+    <item_name>Ski boots 2</item_name>
+    <price>187</price>
+  </item>
+  <item>
+    <item_type_id>953</item_type_id>
+    <item_name>Trekking sneakers 2</item_name>
+    <price>377</price>
+  </item>
+  <item>
+    <item_type_id>954</item_type_id>
+    <item_name>Rubber boots 2</item_name>
+    <price>123</price>
+  </item>
+  <item>
+    <item_type_id>955</item_type_id>
+    <item_name>Insulated boots 2</item_name>
+    <price>485</price>
+  </item>
+  <item>
+    <item_type_id>956</item_type_id>
+    <item_name>Galoshes 2</item_name>
+    <price>221</price>
+  </item>
+  <item>
+    <item_type_id>957</item_type_id>
+    <item_name>Hiking sandals 2</item_name>
+    <price>35</price>
+  </item>
+  <item>
+    <item_type_id>958</item_type_id>
+    <item_name>Bath slippers 2</item_name>
+    <price>455</price>
+  </item>
+  <item>
+    <item_type_id>959</item_type_id>
+    <item_name>Shoe covers 2</item_name>
+    <price>14</price>
+  </item>
+  <item>
+    <item_type_id>960</item_type_id>
+    <item_name>Shin guards 2</item_name>
+    <price>467</price>
+  </item>
+  <item>
+    <item_type_id>961</item_type_id>
+    <item_name>Crampons 2</item_name>
+    <price>179</price>
+  </item>
+  <item>
+    <item_type_id>962</item_type_id>
+    <item_name>Ski boots 2</item_name>
+    <price>258</price>
+  </item>
+  <item>
+    <item_type_id>963</item_type_id>
+    <item_name>Skates 2</item_name>
+    <price>29</price>
+  </item>
+  <item>
+    <item_type_id>964</item_type_id>
+    <item_name>Snowshoes 2</item_name>
+    <price>324</price>
+  </item>
+  <item>
+    <item_type_id>965</item_type_id>
+    <item_name>Climbing soles 2</item_name>
+    <price>484</price>
+  </item>
+  <item>
+    <item_type_id>966</item_type_id>
+    <item_name>Knee pads 2</item_name>
+    <price>453</price>
+  </item>
+  <item>
+    <item_type_id>967</item_type_id>
+    <item_name>Footwraps 2</item_name>
+    <price>320</price>
+  </item>
+  <item>
+    <item_type_id>968</item_type_id>
+    <item_name>Leather boots 2</item_name>
+    <price>243</price>
+  </item>
+  <item>
+    <item_type_id>969</item_type_id>
+    <item_name>Moccasins 2</item_name>
+    <price>42</price>
+  </item>
+  <item>
+    <item_type_id>970</item_type_id>
+    <item_name>Chromed leather boots 2</item_name>
+    <price>467</price>
+  </item>
+  <item>
+    <item_type_id>971</item_type_id>
+    <item_name>Trekking socks 2</item_name>
+    <price>288</price>
+  </item>
+  <item>
+    <item_type_id>972</item_type_id>
+    <item_name>Wool socks 2</item_name>
+    <price>366</price>
+  </item>
+  <item>
+    <item_type_id>973</item_type_id>
+    <item_name>Thermal socks 2</item_name>
+    <price>280</price>
+  </item>
+  <item>
+    <item_type_id>974</item_type_id>
+    <item_name>Compression socks 2</item_name>
+    <price>350</price>
+  </item>
+  <item>
+    <item_type_id>975</item_type_id>
+    <item_name>Ankle socks 2</item_name>
+    <price>261</price>
+  </item>
+  <item>
+    <item_type_id>976</item_type_id>
+    <item_name>Heated socks 2</item_name>
+    <price>440</price>
+  </item>
+  <item>
+    <item_type_id>977</item_type_id>
+    <item_name>Wool footwraps 2</item_name>
+    <price>468</price>
+  </item>
+  <item>
+    <item_type_id>978</item_type_id>
+    <item_name>Slipper socks 2</item_name>
+    <price>197</price>
+  </item>
+  <item>
+    <item_type_id>979</item_type_id>
+    <item_name>Knee-high socks 2</item_name>
+    <price>65</price>
+  </item>
+  <item>
+    <item_type_id>980</item_type_id>
+    <item_name>Blister-resistant socks 2</item_name>
+    <price>72</price>
+  </item>
+  <item>
+    <item_type_id>981</item_type_id>
+    <item_name>Bulletproof vest 2</item_name>
+    <price>37</price>
+  </item>
+  <item>
+    <item_type_id>982</item_type_id>
+    <item_name>Gas mask 2</item_name>
+    <price>256</price>
+  </item>
+  <item>
+    <item_type_id>983</item_type_id>
+    <item_name>Respirator 2</item_name>
+    <price>45</price>
+  </item>
+  <item>
+    <item_type_id>984</item_type_id>
+    <item_name>Protective neck collar 2</item_name>
+    <price>458</price>
+  </item>
+  <item>
+    <item_type_id>985</item_type_id>
+    <item_name>Construction knee pads 2</item_name>
+    <price>195</price>
+  </item>
+  <item>
+    <item_type_id>986</item_type_id>
+    <item_name>Face shield 2</item_name>
+    <price>433</price>
+  </item>
+  <item>
+    <item_type_id>987</item_type_id>
+    <item_name>Fencing bib 2</item_name>
+    <price>381</price>
+  </item>
+  <item>
+    <item_type_id>988</item_type_id>
+    <item_name>Spiked shoe attachments 2</item_name>
+    <price>303</price>
+  </item>
+  <item>
+    <item_type_id>989</item_type_id>
+    <item_name>Auto-inflating life vest 2</item_name>
+    <price>243</price>
+  </item>
+  <item>
+    <item_type_id>990</item_type_id>
+    <item_name>Wetsuit 2</item_name>
+    <price>196</price>
+  </item>
+  <item>
+    <item_type_id>991</item_type_id>
+    <item_name>Drysuit 2</item_name>
+    <price>409</price>
+  </item>
+  <item>
+    <item_type_id>992</item_type_id>
+    <item_name>Semi-dry suit 2</item_name>
+    <price>257</price>
+  </item>
+  <item>
+    <item_type_id>993</item_type_id>
+    <item_name>Water shoes 2</item_name>
+    <price>271</price>
+  </item>
+  <item>
+    <item_type_id>994</item_type_id>
+    <item_name>Water gloves 2</item_name>
+    <price>31</price>
+  </item>
+  <item>
+    <item_type_id>995</item_type_id>
+    <item_name>Kayaking helmet 2</item_name>
+    <price>350</price>
+  </item>
+  <item>
+    <item_type_id>996</item_type_id>
+    <item_name>Lifebuoy 2</item_name>
+    <price>88</price>
+  </item>
+  <item>
+    <item_type_id>997</item_type_id>
+    <item_name>High-visibility vest (reflective) 2</item_name>
+    <price>104</price>
+  </item>
+  <item>
+    <item_type_id>998</item_type_id>
+    <item_name>Harness 2</item_name>
+    <price>442</price>
+  </item>
+  <item>
+    <item_type_id>999</item_type_id>
+    <item_name>Climbing harness 2</item_name>
+    <price>492</price>
+  </item>
+  <item>
+    <item_type_id>1000</item_type_id>
+    <item_name>Climbing spikes (spurs) 2</item_name>
+    <price>150</price>
+  </item>
+</items>
